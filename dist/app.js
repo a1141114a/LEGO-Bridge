@@ -9,6 +9,8 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const icons={home:'⌂',shop:'▦',orders:'▤',about:'◎',cart:'♧'};let apiAvailable=false;
 fetch('./api/health').then(r=>r.ok?r.json():null).then(d=>{apiAvailable=d?.orders===true}).catch(()=>{}).finally(updateServiceStatus);
 function updateServiceStatus(){const form=$('#orderForm');if(!form)return;const button=form.querySelector('button[type=submit]');button.disabled=!apiAvailable;if(!apiAvailable){$('#submitError').textContent=tr('当前为静态展示站，尚未连接申请后台，暂不接收购买申请。请使用本地服务预览申请流程。','현재 정적 데모 사이트로 신청 서버가 연결되지 않았습니다. 신청 기능은 로컬 서버에서 확인해 주세요.')}}
+document.addEventListener('click',()=>queueMicrotask(updateServiceStatus));
+document.addEventListener('submit',e=>{if(e.target.id==='orderForm'&&!apiAvailable){e.preventDefault();e.stopImmediatePropagation();updateServiceStatus()}},true);
 function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(window.toastTimeout);window.toastTimeout=setTimeout(()=>$('#toast').classList.remove('visible'),2600)}
 function persist(){localStorage.setItem('bridge-cart',JSON.stringify(cart));$('#cartCount').textContent=Object.values(cart).reduce((a,b)=>a+b,0)}
 function route(){return location.hash.slice(1)||'home'}
