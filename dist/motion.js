@@ -33,7 +33,7 @@ document.addEventListener('click', e => {
     animate(control,[{transform:'scale(1)'},{transform:'scale(.94)',offset:.3},{transform:'scale(1)'}],{duration:240});
   }
   if (control.matches('[data-favorite]')) {
-    animate(control,[
+    animate(control.querySelector('.heart-icon'),[
       {transform:'scale(1)',boxShadow:'0 0 0 0 #ee594500'},
       {transform:'scale(1.7) rotate(-15deg)',boxShadow:'0 0 0 8px #ee59452b',offset:.25},
       {transform:'scale(1.12) rotate(0deg)',boxShadow:'0 0 0 12px #ee594510',offset:.48},
