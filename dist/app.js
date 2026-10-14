@@ -1,4 +1,4 @@
-import {cartFeedback} from './motion.js?v=motion-1';
+import {cartFeedback} from './motion.js?v=motion-2';
 import {products} from './products.js';
 const $=s=>document.querySelector(s);let lang=localStorage.getItem('bridge-lang')==='ko'?'ko':'zh';
 function read(key,fallback){try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}}
