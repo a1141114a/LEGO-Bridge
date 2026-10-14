@@ -1,15 +1,18 @@
-// Prices, availability and years are editorial demo data, not live market quotes.
-export const products = [
- ['10305','雄狮骑士的城堡','사자 기사의 성','ICONS',2022,4514,2499,529000,2800,579000,615000,3,'精选收藏'],
- ['21330','小鬼当家','나 홀로 집에','IDEAS',2021,3955,1699,359000,1850,399000,429000,5,'人气之选'],
- ['21343','维京村庄','바이킹 마을','IDEAS',2023,2103,899,189000,980,219000,235000,4,'跨境好价'],
- ['10316','幽谷瑞文戴尔','반지의 제왕: 리븐델','ICONS',2023,6167,3299,699000,3550,759000,820000,2,'精选收藏'],
- ['76405','霍格沃茨特快列车 · 收藏版','호그와트 익스프레스 컬렉터 에디션','HARRY POTTER',2022,5129,2799,589000,3100,649000,710000,2,'收藏推荐'],
- ['75331','剃刀冠号','레이저 크레스트','STAR WARS',2022,6187,3699,779000,3900,849000,905000,1,'收藏推荐'],
- ['10311','兰花','난초','BOTANICALS',2022,608,299,63000,340,74900,82000,8,'入门推荐'],
- ['42143','法拉利 Daytona SP3','페라리 Daytona SP3','TECHNIC',2022,3778,2399,509000,2580,559000,605000,3,'人气之选'],
- ['21325','中世纪铁匠铺','중세 대장간','IDEAS',2021,2164,1299,275000,1450,309000,345000,0,'收藏推荐'],
- ['10312','爵士乐俱乐部','재즈 클럽','ICONS',2023,2899,1599,339000,1760,379000,415000,4,'精选收藏'],
- ['21060','姬路城','히메지성','ARCHITECTURE',2023,2125,1099,229000,1250,259000,289000,6,'建筑美学'],
- ['21338','A字小屋','A자형 오두막','IDEAS',2023,2082,1199,249000,1350,279000,310000,3,'精选收藏']
-].map(([id,zh,ko,series,year,pieces,cny,krw,china,korea,global,stock,tag])=>({id,zh,ko,series,year,pieces,cny,krw,china,korea,global,stock,tag,image:`https://images.brickset.com/sets/images/${id}-1.jpg`,source:`https://www.lego.com/en-us/search?q=${id}`,updated:'2026-10-13',priceType:'SIMULATED'}));
+import part0 from './catalog/part-0.js?v=catalog-1';
+import part1 from './catalog/part-1.js?v=catalog-1';
+import part2 from './catalog/part-2.js?v=catalog-1';
+import part3 from './catalog/part-3.js?v=catalog-1';
+import part4 from './catalog/part-4.js?v=catalog-1';
+import part5 from './catalog/part-5.js?v=catalog-1';
+import part6 from './catalog/part-6.js?v=catalog-1';
+import part7 from './catalog/part-7.js?v=catalog-1';
+import part8 from './catalog/part-8.js?v=catalog-1';
+import part9 from './catalog/part-9.js?v=catalog-1';
+import part10 from './catalog/part-10.js?v=catalog-1';
+import part11 from './catalog/part-11.js?v=catalog-1';
+import part12 from './catalog/part-12.js?v=catalog-1';
+import part13 from './catalog/part-13.js?v=catalog-1';
+import part14 from './catalog/part-14.js?v=catalog-1';
+import part15 from './catalog/part-15.js?v=catalog-1';
+export const products=[...part0,...part1,...part2,...part3,...part4,...part5,...part6,...part7,...part8,...part9,...part10,...part11,...part12,...part13,...part14,...part15];
+export const catalogUpdated='2026-10-14';

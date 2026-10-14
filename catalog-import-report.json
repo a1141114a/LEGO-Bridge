@@ -1,0 +1,332 @@
+{
+  "updated": "2026-10-14",
+  "total": 367,
+  "confirmed": 287,
+  "pending": 80,
+  "rules": {
+    "CNY": "round(US official list price × 9 × 0.6)",
+    "KRW": "round(KR official sale price × 0.75)",
+    "USD": "US official list price"
+  },
+  "missingPrices": [
+    {
+      "id": "71500",
+      "name": "梦魇鲨鱼潜艇",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/nightmare-shark-submarine-71500",
+        "kr": null,
+        "cn": "https://www.lego.com/zh-cn/product/nightmare-shark-submarine-71500"
+      }
+    },
+    {
+      "id": "60440",
+      "name": "黄色运输车",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/yellow-delivery-truck-60440",
+        "kr": null,
+        "cn": "https://www.lego.com/zh-cn/product/yellow-delivery-truck-60440"
+      }
+    },
+    {
+      "id": "71514",
+      "name": "剑龙喷气式飞机",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/dino-jet-71514",
+        "kr": null,
+        "cn": "https://www.lego.com/zh-cn/product/dino-jet-71514"
+      }
+    },
+    {
+      "id": "75427",
+      "name": "奇智妙玩：王座室对决 A-翼",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/smart-play-throne-room-duel-a-wing-75427",
+        "kr": "https://www.lego.com/ko-kr/product/smart-play-throne-room-duel-a-wing-75427",
+        "cn": "https://www.lego.com/zh-cn/product/smart-play-throne-room-duel-a-wing-75427"
+      }
+    },
+    {
+      "id": "10338",
+      "name": "大黄蜂",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/bumblebee-10338",
+        "kr": null,
+        "cn": "https://www.lego.com/zh-cn/product/bumblebee-10338"
+      }
+    },
+    {
+      "id": "75684",
+      "name": "欢迎来到翡翠城",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/welcome-to-emerald-city-75684",
+        "kr": null,
+        "cn": "https://www.lego.com/zh-cn/product/welcome-to-emerald-city-75684"
+      }
+    },
+    {
+      "id": "75426",
+      "name": "奇智妙玩：千年隼号星际飞船",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/smart-play-millennium-falcon-75426",
+        "kr": "https://www.lego.com/ko-kr/product/smart-play-millennium-falcon-75426",
+        "cn": "https://www.lego.com/zh-cn/product/smart-play-millennium-falcon-75426"
+      }
+    },
+    {
+      "id": "72165",
+      "name": "奇智妙玩：月亮伊布与烈咬陆鲨的冠军争霸战",
+      "missingUS": false,
+      "missingKR": true,
+      "sources": {
+        "us": "https://www.lego.com/en-us/product/smart-play-umbreon-vs-garchomp-championship-battle-72165",
+        "kr": "https://www.lego.com/ko-kr/product/smart-play-umbreon-vs-garchomp-championship-battle-72165",
+        "cn": "https://www.lego.com/zh-cn/product/smart-play-umbreon-vs-garchomp-championship-battle-72165"
+      }
+    }
+  ],
+  "screenshotDetails": [
+    {
+      "id": "2000409",
+      "source": "https://www.lego.com/cdn/cs/set/assets/blt2816e39fc7d5f238/2000409_alt1.jpg",
+      "images": [
+        "https://www.lego.com/cdn/cs/set/assets/blt2816e39fc7d5f238/2000409_alt1.jpg",
+        "./assets/details/2000409-detail-1.png",
+        "./assets/details/2000409-detail-2.png"
+      ]
+    },
+    {
+      "id": "2000430",
+      "source": "https://www.lego.com/cdn/cs/set/assets/blteb1a7b4f36578ecd/2000430.png",
+      "images": [
+        "https://www.lego.com/cdn/cs/set/assets/blteb1a7b4f36578ecd/2000430.png",
+        "./assets/details/2000430-detail-1.png",
+        "./assets/details/2000430-detail-2.png"
+      ]
+    },
+    {
+      "id": "2000431",
+      "source": "https://www.lego.com/cdn/cs/set/assets/blt9b888eb820c87f1c/2000431.png",
+      "images": [
+        "https://www.lego.com/cdn/cs/set/assets/blt9b888eb820c87f1c/2000431.png",
+        "./assets/details/2000431-detail-1.png",
+        "./assets/details/2000431-detail-2.png"
+      ]
+    }
+  ],
+  "seriesCounts": [
+    {
+      "series": "LORD OF THE RINGS",
+      "total": 5,
+      "confirmed": 5
+    },
+    {
+      "series": "ICONS",
+      "total": 39,
+      "confirmed": 33
+    },
+    {
+      "series": "IDEAS",
+      "total": 28,
+      "confirmed": 23
+    },
+    {
+      "series": "STAR WARS",
+      "total": 34,
+      "confirmed": 30
+    },
+    {
+      "series": "TECHNIC",
+      "total": 33,
+      "confirmed": 27
+    },
+    {
+      "series": "ARCHITECTURE",
+      "total": 8,
+      "confirmed": 8
+    },
+    {
+      "series": "CREATOR EXPERT",
+      "total": 2,
+      "confirmed": 2
+    },
+    {
+      "series": "POKÉMON",
+      "total": 5,
+      "confirmed": 5
+    },
+    {
+      "series": "HARRY POTTER",
+      "total": 16,
+      "confirmed": 13
+    },
+    {
+      "series": "MARVEL",
+      "total": 8,
+      "confirmed": 7
+    },
+    {
+      "series": "SERIOUS PLAY",
+      "total": 3,
+      "confirmed": 3
+    },
+    {
+      "series": "NINJAGO",
+      "total": 18,
+      "confirmed": 15
+    },
+    {
+      "series": "OTHER",
+      "total": 18,
+      "confirmed": 9
+    },
+    {
+      "series": "ART",
+      "total": 8,
+      "confirmed": 7
+    },
+    {
+      "series": "DISNEY",
+      "total": 13,
+      "confirmed": 9
+    },
+    {
+      "series": "ONE PIECE",
+      "total": 4,
+      "confirmed": 4
+    },
+    {
+      "series": "JURASSIC WORLD",
+      "total": 6,
+      "confirmed": 6
+    },
+    {
+      "series": "BATMAN",
+      "total": 2,
+      "confirmed": 1
+    },
+    {
+      "series": "EDITIONS",
+      "total": 11,
+      "confirmed": 11
+    },
+    {
+      "series": "STRANGER THINGS",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "FORTNITE",
+      "total": 6,
+      "confirmed": 5
+    },
+    {
+      "series": "MONKIE KID",
+      "total": 6,
+      "confirmed": 5
+    },
+    {
+      "series": "DC",
+      "total": 2,
+      "confirmed": 1
+    },
+    {
+      "series": "SUPER MARIO",
+      "total": 7,
+      "confirmed": 3
+    },
+    {
+      "series": "DREAMZZZ",
+      "total": 9,
+      "confirmed": 4
+    },
+    {
+      "series": "CREATOR 3-IN-1",
+      "total": 6,
+      "confirmed": 5
+    },
+    {
+      "series": "WICKED",
+      "total": 4,
+      "confirmed": 4
+    },
+    {
+      "series": "CITY",
+      "total": 21,
+      "confirmed": 14
+    },
+    {
+      "series": "FRIENDS",
+      "total": 21,
+      "confirmed": 8
+    },
+    {
+      "series": "NIKE",
+      "total": 3,
+      "confirmed": 3
+    },
+    {
+      "series": "BOTANICALS",
+      "total": 6,
+      "confirmed": 6
+    },
+    {
+      "series": "EDUCATION",
+      "total": 2,
+      "confirmed": 2
+    },
+    {
+      "series": "THE LEGEND OF ZELDA",
+      "total": 2,
+      "confirmed": 1
+    },
+    {
+      "series": "MINIFIGURES",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "CLASSIC",
+      "total": 4,
+      "confirmed": 2
+    },
+    {
+      "series": "WEDNESDAY",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "MINECRAFT",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "POKÉMON SMART PLAY",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "KPOP DEMON HUNTERS",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "ANIMAL CROSSING",
+      "total": 1,
+      "confirmed": 0
+    }
+  ]
+}

@@ -1,0 +1,962 @@
+export default [
+  {
+    "id": "10316",
+    "zh": "THE LORD OF THE RINGS: RIVENDELL™",
+    "ko": "반지의 제왕: 리븐델",
+    "en": "THE LORD OF THE RINGS: RIVENDELL™",
+    "series": "LORD OF THE RINGS",
+    "seriesZh": "指环王",
+    "seriesKo": "반지의 제왕",
+    "pieces": 6167,
+    "age": "18+",
+    "cny": 2700,
+    "krw": 487425,
+    "china": 4500,
+    "korea": 649900,
+    "global": 499.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt0a0c82506f8bd960/10316.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf60debbc5b62ec15/10316_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316",
+      "kr": "https://www.lego.com/ko-kr/product/the-lord-of-the-rings-rivendell-10316",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10350",
+    "zh": "英伦街角",
+    "ko": "튜더 코너",
+    "en": "Tudor Corner",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 3266,
+    "age": "18+",
+    "cny": 1242,
+    "krw": 232425,
+    "china": 2070,
+    "korea": 309900,
+    "global": 229.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc38b5911d77d1733/10350_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc38b5911d77d1733/10350_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltff03fc62ff8d1a9a/10350_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt81aad0b85c3c0705/10350_WEB_SEC05_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/tudor-corner-10350",
+      "kr": "https://www.lego.com/ko-kr/product/tudor-corner-10350",
+      "cn": "https://www.lego.com/zh-cn/product/tudor-corner-10350"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/tudor-corner-10350",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21330",
+    "zh": "LEGO® Ideas Home Alone",
+    "ko": "레고® 아이디어 나홀로 집에",
+    "en": "LEGO® Ideas Home Alone",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 3955,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 299925,
+    "china": 2700,
+    "korea": 399900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt9956e5fb469cf0ea/blt41320ab511b43baa-21330_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt9956e5fb469cf0ea/blt41320ab511b43baa-21330_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt6d580f237723d2d9/blt41320ab511b43baa-21330_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4f46e3bb0541b240/blt41320ab511b43baa-21330_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/lego-ideas-home-alone-21330",
+      "kr": "https://www.lego.com/ko-kr/product/lego-ideas-home-alone-21330",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/lego-ideas-home-alone-21330",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75457",
+    "zh": "Executor Super Star Destroyer™",
+    "ko": "이그제큐터 수퍼스타 디스트로이어",
+    "en": "Executor Super Star Destroyer™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 6130,
+    "age": "18+",
+    "cny": 4320,
+    "krw": 824925,
+    "china": 7200,
+    "korea": 1099900,
+    "global": 799.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb4c3d072be35f7fa/75457_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb4c3d072be35f7fa/75457_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcb2fb5c8c0bdf03f/75457_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt137b5884e5c55592/75457_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/executor-super-star-destroyer-75457",
+      "kr": "https://www.lego.com/ko-kr/product/executor-super-star-destroyer-75457",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/executor-super-star-destroyer-75457",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42215",
+    "zh": "沃尔沃EC500混动挖掘机",
+    "ko": "Volvo EC500 Hybrid 굴착기",
+    "en": "Volvo EC500 Hybrid Excavator",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 2359,
+    "age": "18+",
+    "cny": 2322,
+    "krw": 404925,
+    "china": 3870,
+    "korea": 539900,
+    "global": 429.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt6027837d523f859d/42215_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt6027837d523f859d/42215_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltee7104330d35aa5f/42215_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt6029edda039ae032/42215_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/volvo-ec500-hybrid-excavator-42215",
+      "kr": "https://www.lego.com/ko-kr/product/volvo-ec500-hybrid-excavator-42215",
+      "cn": "https://www.lego.com/zh-cn/product/volvo-ec500-hybrid-excavator-42215"
+    },
+    "availability": {
+      "us": "G_BACKORDER",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/volvo-ec500-hybrid-excavator-42215",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21359",
+    "zh": "意大利里维埃拉",
+    "ko": "이탈리아 리비에라",
+    "en": "Italian Riviera",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 3251,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 292425,
+    "china": 2700,
+    "korea": 389900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3d6245b2b391c560/21359_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3d6245b2b391c560/21359_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf7156d717e5317a7/21359_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltacfb6fdcbc44d1bf/21359_WEB_SEC04_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/italian-riviera-21359",
+      "kr": "https://www.lego.com/ko-kr/product/italian-riviera-21359",
+      "cn": "https://www.lego.com/zh-cn/product/italian-riviera-21359"
+    },
+    "availability": {
+      "us": "F_BACKORDER_FOR_DATE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/italian-riviera-21359",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10318",
+    "zh": "Concorde",
+    "ko": "콩코드",
+    "en": "Concorde",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 2083,
+    "age": "18+",
+    "cny": 1080,
+    "krw": 202425,
+    "china": 1800,
+    "korea": 269900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltdc7097183ba14c89/10318.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdc7097183ba14c89/10318.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd56ac1c273e08f9f/10318_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltfb105dece8087036/10318_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/concorde-10318",
+      "kr": "https://www.lego.com/ko-kr/product/concorde-10318",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/concorde-10318",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21065",
+    "zh": "圣家族大教堂",
+    "ko": "사그라다 파밀리아",
+    "en": "Sagrada Família",
+    "series": "ARCHITECTURE",
+    "seriesZh": "建筑系列",
+    "seriesKo": "아키텍쳐",
+    "pieces": 12060,
+    "age": "18+",
+    "cny": 4320,
+    "krw": 824925,
+    "china": 7200,
+    "korea": 1099900,
+    "global": 799.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt312f953b5974a677/blt7fc2e495b14acd1c-21065_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt312f953b5974a677/blt7fc2e495b14acd1c-21065_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte5fccc4ba8274218/blt7fc2e495b14acd1c-21065_Lifestyle_Build_01.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blt8882ad3ee8537b83/blt7fc2e495b14acd1c-21065_Lifestyle_Build_02.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/sagrada-familia-21065",
+      "kr": "https://www.lego.com/ko-kr/product/sagrada-familia-21065",
+      "cn": "https://www.lego.com/zh-cn/product/sagrada-familia-21065"
+    },
+    "availability": {
+      "us": "B_COMING_SOON_AT_DATE",
+      "kr": "A_PRE_ORDER_FOR_DATE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/sagrada-familia-21065",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10307",
+    "zh": "Eiffel tower",
+    "ko": "에펠탑",
+    "en": "Eiffel tower",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 10001,
+    "age": "18+",
+    "cny": 3402,
+    "krw": 637500,
+    "china": 5670,
+    "korea": 850000,
+    "global": 629.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt0e2b04c977a2dc2a/10307.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt0e2b04c977a2dc2a/10307.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt95b2930fbcf9ea6b/10307_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt1c61dd3796a7b8a7/10307_alt11.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/eiffel-tower-10307",
+      "kr": "https://www.lego.com/ko-kr/product/eiffel-tower-10307",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/eiffel-tower-10307",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10294",
+    "zh": "LEGO® Titanic",
+    "ko": "레고® 타이타닉",
+    "en": "LEGO® Titanic",
+    "series": "CREATOR EXPERT",
+    "seriesZh": "创意专家",
+    "seriesKo": "크리에이터 엑스퍼트",
+    "pieces": 9090,
+    "age": "18+",
+    "cny": 3672,
+    "krw": 667500,
+    "china": 6120,
+    "korea": 890000,
+    "global": 679.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt6cdf0b53146b5519/10294_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt6cdf0b53146b5519/10294_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4970f39471f38330/10294_alt1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blt106cc94abfc29747/10294_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/lego-titanic-10294",
+      "kr": "https://www.lego.com/ko-kr/product/lego-titanic-10294",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/lego-titanic-10294",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75419",
+    "zh": "死星",
+    "ko": "데스스타™",
+    "en": "Death Star™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 9023,
+    "age": "18+",
+    "cny": 5400,
+    "krw": 1049250,
+    "china": 9000,
+    "korea": 1399000,
+    "global": 999.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt597e64c3c0f4786c/75419_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt597e64c3c0f4786c/75419_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcd45a9525e1d65eb/75419_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt16f43e70caced534/75419_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/death-star-75419",
+      "kr": "https://www.lego.com/ko-kr/product/death-star-75419",
+      "cn": "https://www.lego.com/zh-cn/product/death-star-75419"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/death-star-75419",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11377",
+    "zh": "指环王：米那斯提力斯",
+    "ko": "반지의 제왕: 미나스 티리스™",
+    "en": "The Lord of the Rings: Minas Tirith™",
+    "series": "LORD OF THE RINGS",
+    "seriesZh": "指环王",
+    "seriesKo": "반지의 제왕",
+    "pieces": 8278,
+    "age": "18+",
+    "cny": 3510,
+    "krw": 742425,
+    "china": 5850,
+    "korea": 989900,
+    "global": 649.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta3593d3e46871a93/bltfbf117028d65c7c2-11377_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta3593d3e46871a93/bltfbf117028d65c7c2-11377_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltfeaa8bff7bbceb3e/bltfbf117028d65c7c2-11377_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt903786d9e32f63af/bltfbf117028d65c7c2-11377_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/The-Lord-of-the-Rings-Minas-Tirith-11377",
+      "kr": "https://www.lego.com/ko-kr/product/The-Lord-of-the-Rings-Minas-Tirith-11377",
+      "cn": "https://www.lego.com/zh-cn/product/The-Lord-of-the-Rings-Minas-Tirith-11377"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/The-Lord-of-the-Rings-Minas-Tirith-11377",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75192",
+    "zh": "Millennium Falcon™",
+    "ko": "밀레니엄 팔콘™",
+    "en": "Millennium Falcon™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 7541,
+    "age": "16+",
+    "cny": 4590,
+    "krw": 825000,
+    "china": 7650,
+    "korea": 1100000,
+    "global": 849.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte22f1f8d1cacfb3c/75192_alt1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltecd03cc9fb82fd56/75192_alt2.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/millennium-falcon-75192",
+      "kr": "https://www.lego.com/ko-kr/product/millennium-falcon-75192",
+      "cn": null
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/millennium-falcon-75192",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "72153",
+    "zh": "妙蛙花、喷火龙和水箭龟",
+    "ko": "이상해꽃, 리자몽, 거북왕",
+    "en": "Venusaur, Charizard and Blastoise",
+    "series": "POKÉMON",
+    "seriesZh": "宝可梦",
+    "seriesKo": "포켓몬",
+    "pieces": 6838,
+    "age": "18+",
+    "cny": 3510,
+    "krw": 712425,
+    "china": 5850,
+    "korea": 949900,
+    "global": 649.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt03c6f9be28fbf6ad/72153_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt03c6f9be28fbf6ad/72153_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt297246b64beb225e/72153_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8e75434f5d8c6f92/72153_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/venusaur-charizard-and-blastoise-72153",
+      "kr": "https://www.lego.com/ko-kr/product/venusaur-charizard-and-blastoise-72153",
+      "cn": "https://www.lego.com/zh-cn/product/venusaur-charizard-and-blastoise-72153"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/venusaur-charizard-and-blastoise-72153",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71043",
+    "zh": "Hogwarts™ Castle",
+    "ko": "해리포터 호그와트™ 성",
+    "en": "Hogwarts™ Castle",
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 6020,
+    "age": "16+",
+    "cny": 2538,
+    "krw": 480000,
+    "china": 4230,
+    "korea": 640000,
+    "global": 469.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt51ff6bf5627b4161/71043_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt51ff6bf5627b4161/71043_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt08668e770aaef16e/71043_alt1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltc7cfefbb0fb5d187/71043_alt2.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/hogwarts-castle-71043",
+      "kr": "https://www.lego.com/ko-kr/product/hogwarts-castle-71043",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/hogwarts-castle-71043",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10333",
+    "zh": "指环王：巴拉都",
+    "ko": "반지의 제왕: 바랏두르™",
+    "en": "The Lord of the Rings: Barad-dûr™",
+    "series": "LORD OF THE RINGS",
+    "seriesZh": "指环王",
+    "seriesKo": "반지의 제왕",
+    "pieces": 5471,
+    "age": "18+",
+    "cny": 2484,
+    "krw": 449925,
+    "china": 4140,
+    "korea": 599900,
+    "global": 459.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt370b7e8cc1fcceb2/10333.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt370b7e8cc1fcceb2/10333.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltbae4336497e50109/10333_WEB_SEC07_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt029df12d12c26630/10333_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-lord-of-the-rings-barad-dur-10333",
+      "kr": "https://www.lego.com/ko-kr/product/the-lord-of-the-rings-barad-dur-10333",
+      "cn": "https://www.lego.com/zh-cn/product/the-lord-of-the-rings-barad-dur-10333"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-lord-of-the-rings-barad-dur-10333",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75367",
+    "zh": "Venator-Class Republic Attack Cruiser™",
+    "ko": "베나터급 공화국 공격 순양함",
+    "en": "Venator-Class Republic Attack Cruiser™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 5374,
+    "age": "18+",
+    "cny": 3510,
+    "krw": 629925,
+    "china": 5850,
+    "korea": 839900,
+    "global": 649.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt06c6593d8e8d1c13/75367.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt06c6593d8e8d1c13/75367.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt266b40dfb46ff5de/75367_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcfe4c209d7b5b7d2/75367_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367",
+      "kr": "https://www.lego.com/ko-kr/product/venator-class-republic-attack-cruiser-75367",
+      "cn": null
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76269",
+    "zh": "复仇者大厦",
+    "ko": "어벤져스 타워",
+    "en": "Avengers Tower",
+    "series": "MARVEL",
+    "seriesZh": "漫威",
+    "seriesKo": "마블",
+    "pieces": 5201,
+    "age": "18+",
+    "cny": 2700,
+    "krw": 487425,
+    "china": 4500,
+    "korea": 649900,
+    "global": 499.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltba2cf4f4f13c909e/76269_alt2.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt547d1b777fe3d07c/76269_alt3.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/avengers-tower-76269",
+      "kr": "https://www.lego.com/ko-kr/product/avengers-tower-76269",
+      "cn": "https://www.lego.com/zh-cn/product/avengers-tower-76269"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/avengers-tower-76269",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "2000409",
+    "zh": "Window Exploration Bag",
+    "ko": "Window Exploration Bag",
+    "en": "Window Exploration Bag",
+    "series": "SERIOUS PLAY",
+    "seriesZh": "SERIOUS PLAY®",
+    "seriesKo": "시리어스 플레이®",
+    "pieces": 5100,
+    "age": "6+",
+    "cny": 2619,
+    "krw": 359925,
+    "china": 4365,
+    "korea": 479900,
+    "global": 484.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt2816e39fc7d5f238/2000409_alt1.jpg",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2816e39fc7d5f238/2000409_alt1.jpg",
+      "./assets/details/2000409-detail-1.png",
+      "./assets/details/2000409-detail-2.png"
+    ],
+    "detailSource": "OFFICIAL_IMAGE_SCREENSHOT_CROP",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/window-exploration-bag-2000409",
+      "kr": "https://www.lego.com/ko-kr/product/window-exploration-bag-2000409",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/window-exploration-bag-2000409",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71861",
+    "zh": "The Old Town 15th Anniversary",
+    "ko": "올드 타운_15주년 기념",
+    "en": "The Old Town 15th Anniversary",
+    "series": "NINJAGO",
+    "seriesZh": "幻影忍者",
+    "seriesKo": "닌자고",
+    "pieces": 4851,
+    "age": "14+",
+    "cny": 1620,
+    "krw": 314925,
+    "china": 2700,
+    "korea": 419900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt5874875e3d7151f4/blt64c48d12e5273db0-71861_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5874875e3d7151f4/blt64c48d12e5273db0-71861_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt353c4de1eff0956c/blt64c48d12e5273db0-71861_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd952f21253c3da83/blt64c48d12e5273db0-71861_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-old-town-15th-anniversary-71861",
+      "kr": "https://www.lego.com/ko-kr/product/the-old-town-15th-anniversary-71861",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/the-old-town-15th-anniversary-71861",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21373",
+    "zh": "Downton Abbey（唐顿庄园）",
+    "ko": "Downton Abbey",
+    "en": "Downton Abbey",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 4711,
+    "age": "18+",
+    "cny": 1890,
+    "krw": 337425,
+    "china": 3150,
+    "korea": 449900,
+    "global": 349.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltad314f25ee503191/21373_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltad314f25ee503191/21373_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt73e92456af878ccb/21373_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt280a2bd4f88c0a2d/21373_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/downton-abbey-21373",
+      "kr": "https://www.lego.com/ko-kr/product/downton-abbey-21373",
+      "cn": "https://www.lego.com/zh-cn/product/downton-abbey-21373"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/downton-abbey-21373",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "40179",
+    "zh": "Mosaic Maker",
+    "ko": "모자이크 메이커",
+    "en": "Mosaic Maker",
+    "series": "OTHER",
+    "seriesZh": "其他系列",
+    "seriesKo": "기타",
+    "pieces": 4702,
+    "age": "10+",
+    "cny": 432,
+    "krw": 106500,
+    "china": 720,
+    "korea": 142000,
+    "global": 79.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt8a83c30181e4401c/40179_Box1_v46.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8a83c30181e4401c/40179_Box1_v46.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt69e0f9bd6df083cf/40179_alt1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltcf71d1e9442a0ba8/40179_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mosaic-maker-40179",
+      "kr": "https://www.lego.com/ko-kr/product/mosaic-maker-40179",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/mosaic-maker-40179",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21061",
+    "zh": "巴黎圣母院",
+    "ko": "파리 노트르담",
+    "en": "Notre-Dame de Paris",
+    "series": "ARCHITECTURE",
+    "seriesZh": "建筑系列",
+    "seriesKo": "아키텍쳐",
+    "pieces": 4383,
+    "age": "18+",
+    "cny": 1242,
+    "krw": 224925,
+    "china": 2070,
+    "korea": 299900,
+    "global": 229.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blte79009bca2be0858/21061.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte79009bca2be0858/21061.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt78386c99a44d9d7d/21061_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt084961ee90644436/21061_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/notre-dame-de-paris-21061",
+      "kr": "https://www.lego.com/ko-kr/product/notre-dame-de-paris-21061",
+      "cn": "https://www.lego.com/zh-cn/product/notre-dame-de-paris-21061"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/notre-dame-de-paris-21061",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10366",
+    "zh": "热带水族箱",
+    "ko": "열대 수족관",
+    "en": "Tropical Aquarium",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 4154,
+    "age": "18+",
+    "cny": 2592,
+    "krw": 487425,
+    "china": 4320,
+    "korea": 649900,
+    "global": 479.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt053b7ef00b4fb216/10366_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte5dbbdcd3ade25bf/10366_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
+      "kr": "https://www.lego.com/ko-kr/product/tropical-aquarium-10366",
+      "cn": "https://www.lego.com/zh-cn/product/tropical-aquarium-10366"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  }
+];

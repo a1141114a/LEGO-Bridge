@@ -1,0 +1,962 @@
+export default [
+  {
+    "id": "76300",
+    "zh": "阿卡姆疯人院",
+    "ko": "아캄 어사일럼™",
+    "en": "Arkham Asylum™",
+    "series": "BATMAN",
+    "seriesZh": "蝙蝠侠",
+    "seriesKo": "배트맨",
+    "pieces": 2953,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 307425,
+    "china": 2700,
+    "korea": 409900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltfa7d67cc6648aff3/blt5570081e26e2fdbe-76300_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltfa7d67cc6648aff3/blt5570081e26e2fdbe-76300_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3c8e6c4166b9e079/blt5570081e26e2fdbe-76300_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8d65a38475be9889/blt5570081e26e2fdbe-76300_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/arkham-asylum-76300",
+      "kr": "https://www.lego.com/ko-kr/product/arkham-asylum-76300",
+      "cn": "https://www.lego.com/zh-cn/product/arkham-asylum-76300"
+    },
+    "availability": {
+      "us": "G_BACKORDER",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/arkham-asylum-76300",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43263",
+    "zh": "美女与野兽城堡",
+    "ko": "미녀와 야수의 성",
+    "en": "Beauty and the Beast Castle",
+    "series": "DISNEY",
+    "seriesZh": "迪士尼",
+    "seriesKo": "디즈니",
+    "pieces": 2916,
+    "age": "18+",
+    "cny": 1512,
+    "krw": 292425,
+    "china": 2520,
+    "korea": 389900,
+    "global": 279.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt72d352ea938eb694/43263_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt72d352ea938eb694/43263_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf0ee44852daab7a6/43263_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt49e0a08304fb7d74/43263_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/beauty-and-the-beast-castle-43263",
+      "kr": "https://www.lego.com/ko-kr/product/beauty-and-the-beast-castle-43263",
+      "cn": "https://www.lego.com/zh-cn/product/beauty-and-the-beast-castle-43263"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/beauty-and-the-beast-castle-43263",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21363",
+    "zh": "七宝奇谋",
+    "ko": "구니스",
+    "en": "The Goonies",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 2912,
+    "age": "18+",
+    "cny": 1782,
+    "krw": 307425,
+    "china": 2970,
+    "korea": 409900,
+    "global": 329.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt58ef7328bce3e306/21363_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt58ef7328bce3e306/21363_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5f2e610fe7ed48be/21363_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt603ec0394e9c1602/21363_WEB_SEC02_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-goonies-21363",
+      "kr": "https://www.lego.com/ko-kr/product/the-goonies-21363",
+      "cn": "https://www.lego.com/zh-cn/product/the-goonies-21363"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-goonies-21363",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42177",
+    "zh": "Mercedes-Benz G 500 PROFESSIONAL Line 越野车",
+    "ko": "Mercedes-Benz G 500 PROFESSIONAL Line",
+    "en": "Mercedes-Benz G 500 PROFESSIONAL Line",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 2891,
+    "age": "18+",
+    "cny": 1350,
+    "krw": 247425,
+    "china": 2250,
+    "korea": 329900,
+    "global": 249.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltcbe6394b9677d5bd/42177_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltcbe6394b9677d5bd/42177_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltb9c43efd54c7d5e1/42177_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt54c69a8c795ec938/42177_WEB_SEC05_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mercedes-benz-g-500-professional-line-42177",
+      "kr": "https://www.lego.com/ko-kr/product/mercedes-benz-g-500-professional-line-42177",
+      "cn": "https://www.lego.com/zh-cn/product/mercedes-benz-g-500-professional-line-42177"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/mercedes-benz-g-500-professional-line-42177",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10365",
+    "zh": "杰克·史派罗船长的海盗船",
+    "ko": "캡틴 잭 스패로우의 해적선",
+    "en": "Captain Jack Sparrow's Pirate Ship",
+    "series": "DISNEY",
+    "seriesZh": "迪士尼",
+    "seriesKo": "디즈니",
+    "pieces": 2862,
+    "age": "18+",
+    "cny": 2052,
+    "krw": 374925,
+    "china": 3420,
+    "korea": 499900,
+    "global": 379.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltcf20096d15e25f4c/10365_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltcf20096d15e25f4c/10365_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt11b850b4b8a90f1a/10365_WEB_SEC10_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt36b45fc108d1a3cd/10365_WEB_SEC04_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/captain-jack-sparrows-pirate-ship-10365",
+      "kr": "https://www.lego.com/ko-kr/product/captain-jack-sparrows-pirate-ship-10365",
+      "cn": "https://www.lego.com/zh-cn/product/captain-jack-sparrows-pirate-ship-10365"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/captain-jack-sparrows-pirate-ship-10365",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43020",
+    "zh": "国际足联世界杯奖杯",
+    "ko": "FIFA 월드컵™ 공식 트로피",
+    "en": "FIFA World Cup™ Official Trophy",
+    "series": "EDITIONS",
+    "seriesZh": "EDITIONS 系列",
+    "seriesKo": "에디션",
+    "pieces": 2842,
+    "age": "12+",
+    "cny": 1080,
+    "krw": 187425,
+    "china": 1800,
+    "korea": 249900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt0cd7fa5a1e98c5c7/43020_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt0cd7fa5a1e98c5c7/43020_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt26efe27ebfdf6bb3/43020_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5e1731f08fe7f079/43020_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/fifa-world-cup-official-trophy-43020",
+      "kr": "https://www.lego.com/ko-kr/product/fifa-world-cup-official-trophy-43020",
+      "cn": "https://www.lego.com/zh-cn/product/fifa-world-cup-official-trophy-43020"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/fifa-world-cup-official-trophy-43020",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "2000430",
+    "zh": "Identity and Landscape Kit",
+    "ko": "레고® 시리어스 플레이® 동질감 및 환경 키트",
+    "en": "Identity and Landscape Kit",
+    "series": "SERIOUS PLAY",
+    "seriesZh": "SERIOUS PLAY®",
+    "seriesKo": "시리어스 플레이®",
+    "pieces": 2808,
+    "age": "6+",
+    "cny": 4266,
+    "krw": 682500,
+    "china": 7110,
+    "korea": 910000,
+    "global": 789.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blteb1a7b4f36578ecd/2000430.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blteb1a7b4f36578ecd/2000430.png",
+      "./assets/details/2000430-detail-1.png",
+      "./assets/details/2000430-detail-2.png"
+    ],
+    "detailSource": "OFFICIAL_IMAGE_SCREENSHOT_CROP",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/identity-and-landscape-kit-2000430",
+      "kr": "https://www.lego.com/ko-kr/product/identity-and-landscape-kit-2000430",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/identity-and-landscape-kit-2000430",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76444",
+    "zh": "迷你对角巷™",
+    "ko": "다이애건 앨리™ 마법의 상점",
+    "en": "Diagon Alley™ Wizarding Shops",
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 2750,
+    "age": "18+",
+    "cny": 1080,
+    "krw": 209925,
+    "china": 1800,
+    "korea": 279900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta8d5b7c13b5a3a81/76444_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta8d5b7c13b5a3a81/76444_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt79dd7b78d0eb09aa/76444_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blteed2a222a507f812/76444_WEB_SEC03_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/diagon-alley-wizarding-shops-76444",
+      "kr": "https://www.lego.com/ko-kr/product/diagon-alley-wizarding-shops-76444",
+      "cn": "https://www.lego.com/zh-cn/product/diagon-alley-wizarding-shops-76444"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/diagon-alley-wizarding-shops-76444",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76419",
+    "zh": "Hogwarts™ Castle and Grounds",
+    "ko": "호그와트™ 캐슬과 정원",
+    "en": "Hogwarts™ Castle and Grounds",
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 2660,
+    "age": "18+",
+    "cny": 918,
+    "krw": 172425,
+    "china": 1530,
+    "korea": 229900,
+    "global": 169.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blte09f96efc93d5c1d/76419.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte09f96efc93d5c1d/76419.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5a988358a6267b58/76419_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5b733a63c312a4bf/76419_alt4.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/hogwarts-castle-and-grounds-76419",
+      "kr": "https://www.lego.com/ko-kr/product/hogwarts-castle-and-grounds-76419",
+      "cn": null
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/hogwarts-castle-and-grounds-76419",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "31215",
+    "zh": "文森特·梵高 —— 向日葵",
+    "ko": "Vincent van Gogh – 해바라기",
+    "en": "Vincent van Gogh – Sunflowers",
+    "series": "ART",
+    "seriesZh": "艺术系列",
+    "seriesKo": "아트",
+    "pieces": 2615,
+    "age": "18+",
+    "cny": 1080,
+    "krw": 209925,
+    "china": 1800,
+    "korea": 279900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blte22f55d6a533beae/31215_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte22f55d6a533beae/31215_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte0c77ce5c3fa0d16/31215_Lifestyle_Envr_01_en-gb.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blt06125408a51e546e/31215_Lifestyle_Envr_04_en-gb.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/vincent-van-gogh-sunflowers-31215",
+      "kr": "https://www.lego.com/ko-kr/product/vincent-van-gogh-sunflowers-31215",
+      "cn": "https://www.lego.com/zh-cn/product/vincent-van-gogh-sunflowers-31215"
+    },
+    "availability": {
+      "us": "F_BACKORDER_FOR_DATE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/vincent-van-gogh-sunflowers-31215",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11370",
+    "zh": "怪奇物语：克里尔之家",
+    "ko": "기묘한 이야기: 크릴 하우스",
+    "en": "Stranger Things: The Creel House",
+    "series": "STRANGER THINGS",
+    "seriesZh": "乐高® Icons",
+    "seriesKo": "기묘한 이야기",
+    "pieces": 2593,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 299925,
+    "china": 2700,
+    "korea": 399900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt8170cb2935ea6596/11370_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8170cb2935ea6596/11370_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt671cdc573b2e37c7/11370_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4a0a98ddcd1f2b25/11370_WEB_SEC04_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/stranger-things-the-creel-house-11370",
+      "kr": "https://www.lego.com/ko-kr/product/stranger-things-the-creel-house-11370",
+      "cn": "https://www.lego.com/zh-cn/product/stranger-things-the-creel-house-11370"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/stranger-things-the-creel-house-11370",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "77078",
+    "zh": "机甲小队首领",
+    "ko": "메카팀 리더",
+    "en": "Mecha Team Leader",
+    "series": "FORTNITE",
+    "seriesZh": "堡垒之夜",
+    "seriesKo": "포트나이트",
+    "pieces": 2503,
+    "age": "18+",
+    "cny": 1350,
+    "krw": 232425,
+    "china": 2250,
+    "korea": 309900,
+    "global": 249.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt08e304cdd764c23b/77078_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt08e304cdd764c23b/77078_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5856fd2a4f580f7b/77078_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt77ac6950f5404760/77078_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mecha-team-leader-77078",
+      "kr": "https://www.lego.com/ko-kr/product/mecha-team-leader-77078",
+      "cn": "https://www.lego.com/zh-cn/product/mecha-team-leader-77078"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/mecha-team-leader-77078",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "2000431",
+    "zh": "Connections Kit",
+    "ko": "Connections Kit",
+    "en": "Connections Kit",
+    "series": "SERIOUS PLAY",
+    "seriesZh": "SERIOUS PLAY®",
+    "seriesKo": "시리어스 플레이®",
+    "pieces": 2455,
+    "age": "6+",
+    "cny": 4077,
+    "krw": 476250,
+    "china": 6795,
+    "korea": 635000,
+    "global": 754.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt9b888eb820c87f1c/2000431.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt9b888eb820c87f1c/2000431.png",
+      "./assets/details/2000431-detail-1.png",
+      "./assets/details/2000431-detail-2.png"
+    ],
+    "detailSource": "OFFICIAL_IMAGE_SCREENSHOT_CROP",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/connections-kit-2000431",
+      "kr": "https://www.lego.com/ko-kr/product/connections-kit-2000431",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/connections-kit-2000431",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10360",
+    "zh": "航天飞机运输机",
+    "ko": "셔틀 캐리어 항공기",
+    "en": "Shuttle Carrier Aircraft",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 2417,
+    "age": "18+",
+    "cny": 1242,
+    "krw": 232425,
+    "china": 2070,
+    "korea": 309900,
+    "global": 229.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltab84dc271e0b2c89/10360_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltab84dc271e0b2c89/10360_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta34cd768debce973/10360_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt055ee4962ad659fb/10360_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/shuttle-carrier-aircraft-10360",
+      "kr": "https://www.lego.com/ko-kr/product/shuttle-carrier-aircraft-10360",
+      "cn": "https://www.lego.com/zh-cn/product/shuttle-carrier-aircraft-10360"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/shuttle-carrier-aircraft-10360",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76437",
+    "zh": "陋居——收藏版",
+    "ko": "버로우 - 콜렉터 에디션",
+    "en": "The Burrow – Collectors' Edition",
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 2405,
+    "age": "18+",
+    "cny": 1404,
+    "krw": 262425,
+    "china": 2340,
+    "korea": 349900,
+    "global": 259.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltf77db79fda588d75/76437_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltf77db79fda588d75/76437_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt9401c49a57e53b73/76437_Lifestyle_Cons_02.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blta7ef56c8ddd99af7/76437_Lifestyle_Build_06.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-burrow-collectors-edition-76437",
+      "kr": "https://www.lego.com/ko-kr/product/the-burrow-collectors-edition-76437",
+      "cn": "https://www.lego.com/zh-cn/product/the-burrow-collectors-edition-76437"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-burrow-collectors-edition-76437",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "72154",
+    "zh": "训练家经典时刻: 精灵球",
+    "ko": "포켓몬 트레이너 저니 : 몬스터볼",
+    "en": "Iconic Trainer Moments Poké Ball",
+    "series": "POKÉMON",
+    "seriesZh": "宝可梦",
+    "seriesKo": "포켓몬",
+    "pieces": 2386,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 299925,
+    "china": 2700,
+    "korea": 399900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt59f10fadf173c1ba/blt3435be8c14df0276-72154_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt59f10fadf173c1ba/blt3435be8c14df0276-72154_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltdf7406c8ea3930c0/blt3435be8c14df0276-72154_WEB_SEC04_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt89226d8d65bf1405/blt3435be8c14df0276-72154_WEB_SEC05_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/iconic-trainer-moments-poke-ball-72154",
+      "kr": "https://www.lego.com/ko-kr/product/iconic-trainer-moments-poke-ball-72154",
+      "cn": "https://www.lego.com/zh-cn/product/iconic-trainer-moments-poke-ball-72154"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/iconic-trainer-moments-poke-ball-72154",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "80054",
+    "zh": "万千城",
+    "ko": "메가폴리스 시티 5주년",
+    "en": "Megapolis City 5th Anniversary",
+    "series": "MONKIE KID",
+    "seriesZh": "悟空小侠",
+    "seriesKo": "몽키 키드",
+    "pieces": 2330,
+    "age": "10+",
+    "cny": 1026,
+    "krw": 179925,
+    "china": 1710,
+    "korea": 239900,
+    "global": 189.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt15b6af6bd0d27a00/80054.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3415847abc15956f/80054_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/megapolis-city-5th-anniversary-80054",
+      "kr": "https://www.lego.com/ko-kr/product/megapolis-city-5th-anniversary-80054",
+      "cn": "https://www.lego.com/zh-cn/product/megapolis-city-5th-anniversary-80054"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/megapolis-city-5th-anniversary-80054",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21333",
+    "zh": "Vincent van Gogh - The Starry Night",
+    "ko": "빈센트 반 고흐 - 별이 빛나는 밤",
+    "en": "Vincent van Gogh - The Starry Night",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 2316,
+    "age": "18+",
+    "cny": 918,
+    "krw": 172425,
+    "china": 1530,
+    "korea": 229900,
+    "global": 169.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc6d87e5e7bacb3ae/21333.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc6d87e5e7bacb3ae/21333.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt51e1ce2942bf3fb7/21333_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt0b4ca50328af5875/21333_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/vincent-van-gogh-the-starry-night-21333",
+      "kr": "https://www.lego.com/ko-kr/product/vincent-van-gogh-the-starry-night-21333",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/vincent-van-gogh-the-starry-night-21333",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11374",
+    "zh": "街机弹珠机",
+    "ko": "아케이드 핀볼 머신",
+    "en": "Arcade Pinball Machine",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 2274,
+    "age": "18+",
+    "cny": 1242,
+    "krw": 239925,
+    "china": 2070,
+    "korea": 319900,
+    "global": 229.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt004d35f6a28b7905/blte7ecfac1aa09d7c5-11374_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt004d35f6a28b7905/blte7ecfac1aa09d7c5-11374_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltc8e02c7829b21a50/blte7ecfac1aa09d7c5-11374_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte9fee3b370809332/blte7ecfac1aa09d7c5-11374_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/arcade-pinball-machine-11374",
+      "kr": "https://www.lego.com/ko-kr/product/arcade-pinball-machine-11374",
+      "cn": "https://www.lego.com/zh-cn/product/arcade-pinball-machine-11374"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/arcade-pinball-machine-11374",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42175",
+    "zh": "Volvo FMX 卡车和 EC230 绿色动力挖掘机",
+    "ko": "Volvo FMX 트럭 및 EC230 전기 굴착기",
+    "en": "Volvo FMX Truck & EC230 Electric Excavator",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 2274,
+    "age": "10+",
+    "cny": 1080,
+    "krw": 194925,
+    "china": 1800,
+    "korea": 259900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt28e79ccdf0659cef/42175_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt28e79ccdf0659cef/42175_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt1f34472b40c5e061/42175_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltee5e26a9bcb0ab39/42175_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/volvo-fmx-truck-ec230-electric-excavator-42175",
+      "kr": "https://www.lego.com/ko-kr/product/volvo-fmx-truck-ec230-electric-excavator-42175",
+      "cn": "https://www.lego.com/zh-cn/product/volvo-fmx-truck-ec230-electric-excavator-42175"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/volvo-fmx-truck-ec230-electric-excavator-42175",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76355",
+    "zh": "Batman Returns™ Batmobile™",
+    "ko": "배트맨 2™ 배트모빌™",
+    "en": "Batman Returns™ Batmobile™",
+    "series": "DC",
+    "seriesZh": "DC",
+    "seriesKo": "배트맨™",
+    "pieces": 2269,
+    "age": "18+",
+    "cny": 1242,
+    "krw": 239925,
+    "china": 2070,
+    "korea": 319900,
+    "global": 229.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc6f27d4a45e9571c/76355_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc6f27d4a45e9571c/76355_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt60ac6192e3f0bc76/76355_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltdfc589c735bec4cf/76355_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/batman-returns-batmobile-76355",
+      "kr": "https://www.lego.com/ko-kr/product/batman-returns-batmobile-76355",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "F_BACKORDER_FOR_DATE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/batman-returns-batmobile-76355",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "72050",
+    "zh": "马力欧卡丁车™：路易吉 ＆ G力量",
+    "ko": "마리오 카트™: 루이지 & G포스",
+    "en": "Mario Kart™ – Luigi & Mach 8",
+    "series": "SUPER MARIO",
+    "seriesZh": "超级马力欧",
+    "seriesKo": "슈퍼 마리오",
+    "pieces": 2234,
+    "age": "18+",
+    "cny": 972,
+    "krw": 202425,
+    "china": 1620,
+    "korea": 269900,
+    "global": 179.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt8b9de9e7d31005f9/72050_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8b9de9e7d31005f9/72050_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt1100784522353206/blt7845f046767b6876-72050_WEB_SEC05_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt311f1fe5986bf7f7/blt7845f046767b6876-72050_Lifestyle_Build_08.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mario-kart-luigi-mach-8-72050",
+      "kr": "https://www.lego.com/ko-kr/product/mario-kart-luigi-mach-8-72050",
+      "cn": "https://www.lego.com/zh-cn/product/mario-kart-luigi-mach-8-72050"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/mario-kart-luigi-mach-8-72050",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21351",
+    "zh": "Disney Tim Burton's The Nightmare Before Christmas",
+    "ko": "디즈니 팀 버튼의 크리스마스 악몽",
+    "en": "Disney Tim Burton's The Nightmare Before Christmas",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 2193,
+    "age": "18+",
+    "cny": 1080,
+    "krw": 202425,
+    "china": 1800,
+    "korea": 269900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3d8bb94cad5402d0/21351_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd576ad04ce4b92b8/21351_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+      "kr": "https://www.lego.com/ko-kr/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+      "cn": null
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71872",
+    "zh": "终极战斗神龙",
+    "ko": "울트라 드래곤 배틀",
+    "en": "Ultra Dragon Battle",
+    "series": "NINJAGO",
+    "seriesZh": "幻影忍者",
+    "seriesKo": "닌자고",
+    "pieces": 2178,
+    "age": "12+",
+    "cny": 1080,
+    "krw": 224925,
+    "china": 1800,
+    "korea": 299900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt054da51f60bd0eec/blt6c6d8825f3ae31df-71872_WEB_SEC01_NOBG_en-us.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltfb737767f202b409/blt6c6d8825f3ae31df-71872_WEB_SEC02_NOBG_en-us.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
+      "kr": "https://www.lego.com/ko-kr/product/ultra-dragon-battle-71872",
+      "cn": "https://www.lego.com/zh-cn/product/ultra-dragon-battle-71872"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  }
+];
