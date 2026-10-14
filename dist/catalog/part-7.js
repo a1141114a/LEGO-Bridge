@@ -1,5 +1,210 @@
 export default [
   {
+    "id": "71869",
+    "zh": "封赏之地战车",
+    "ko": "랜드 바운티",
+    "en": "Land Bounty",
+    "series": "NINJAGO",
+    "seriesZh": "幻影忍者",
+    "seriesKo": "닌자고",
+    "pieces": 1214,
+    "age": "9+",
+    "cny": 702,
+    "krw": 153675,
+    "china": 1170,
+    "korea": 204900,
+    "global": 129.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt5b6eb585110fc802/blt2708d07997a9387e-71869_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5b6eb585110fc802/blt2708d07997a9387e-71869_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5c9530dbea57ae9d/blt2708d07997a9387e-71869_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt9b573b9c94e7d9d1/blt2708d07997a9387e-71869_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/land-bounty-71869",
+      "kr": "https://www.lego.com/ko-kr/product/land-bounty-71869",
+      "cn": "https://www.lego.com/zh-cn/product/land-bounty-71869"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/land-bounty-71869",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43025",
+    "zh": "Nike Air Max 95 x 乐高®套装",
+    "ko": "Nike Air Max 95 x 레고® 세트",
+    "en": "Nike Air Max 95 x LEGO® Set",
+    "series": "NIKE",
+    "seriesZh": "Nike",
+    "seriesKo": "레고® 에디션",
+    "pieces": 1213,
+    "age": "12+",
+    "cny": 540,
+    "krw": 104925,
+    "china": 900,
+    "korea": 139900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt14a1d766daf7eee8/blte76f8eeef463f0d2-43025_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt14a1d766daf7eee8/blte76f8eeef463f0d2-43025_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt9c59e28f56fff72c/blte76f8eeef463f0d2-43025_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt91f275b781ad418c/blte76f8eeef463f0d2-43025_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/nike-air-max-95-x-lego-set-43025",
+      "kr": "https://www.lego.com/ko-kr/product/nike-air-max-95-x-lego-set-43025",
+      "cn": "https://www.lego.com/zh-cn/product/nike-air-max-95-x-lego-set-43025"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/nike-air-max-95-x-lego-set-43025",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21372",
+    "zh": "卡特里娜",
+    "ko": "라 까뜨리나",
+    "en": "La Catrina",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 1212,
+    "age": "18+",
+    "cny": 756,
+    "krw": 142425,
+    "china": 1260,
+    "korea": 189900,
+    "global": 139.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt7a6fc4143082898d/bltcfca1e7974173b84-21372_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7a6fc4143082898d/bltcfca1e7974173b84-21372_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte46fc70a373b268a/bltcfca1e7974173b84-21372_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt480151e5142bff76/bltcfca1e7974173b84-21372_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/la-catrina-21372",
+      "kr": "https://www.lego.com/ko-kr/product/la-catrina-21372",
+      "cn": "https://www.lego.com/zh-cn/product/la-catrina-21372"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/la-catrina-21372",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10367",
+    "zh": "指环王：炎魔书架装饰",
+    "ko": "반지의 제왕: 발록™ 북누크",
+    "en": "The Lord of the Rings: Balrog™ Book Nook",
+    "series": "LORD OF THE RINGS",
+    "seriesZh": "指环王",
+    "seriesKo": "반지의 제왕",
+    "pieces": 1201,
+    "age": "18+",
+    "cny": 702,
+    "krw": 101940,
+    "china": 1170,
+    "korea": 135920,
+    "global": 129.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc10e431d4772fa2d/10367_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc10e431d4772fa2d/10367_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt470b0c045f45c09d/10367_WEB_SEC06_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt77946dbff073a284/10367_WEB_SEC04_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-lord-of-the-rings-balrog-book-nook-10367",
+      "kr": "https://www.lego.com/ko-kr/product/the-lord-of-the-rings-balrog-book-nook-10367",
+      "cn": "https://www.lego.com/zh-cn/product/the-lord-of-the-rings-balrog-book-nook-10367"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-lord-of-the-rings-balrog-book-nook-10367",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75446",
+    "zh": "古古（曼达洛学徒）",
+    "ko": "그로구™ (만달로리안 견습생)",
+    "en": "Grogu™ (Mandalorian Apprentice)",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 1200,
+    "age": "10+",
+    "cny": 702,
+    "krw": 153675,
+    "china": 1170,
+    "korea": 204900,
+    "global": 129.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt7b211beb2f802707/blta8d62a90e62e020c-75446_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7b211beb2f802707/blta8d62a90e62e020c-75446_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt0bae7d429b5c1be3/blta8d62a90e62e020c-75446_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt063f4697df62274f/blta8d62a90e62e020c-75446_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/grogu-mandalorian-apprentice-75446",
+      "kr": "https://www.lego.com/ko-kr/product/grogu-mandalorian-apprentice-75446",
+      "cn": "https://www.lego.com/zh-cn/product/grogu-mandalorian-apprentice-75446"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/grogu-mandalorian-apprentice-75446",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "10340",
     "zh": "圣诞花环",
     "ko": "크리스마스 화환",
@@ -17,6 +222,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltf6729e5606d1909f/10340_Prod.png",
     "images": [
@@ -57,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6cc23560b6087150/blta15d46ce58a30281-72160_Prod.png",
     "images": [
@@ -97,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte8b7be24f91841f2/blt1f0950849c012eee-42242_Prod.png",
     "images": [
@@ -137,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt76506be46cba5e04/71834_Prod_en-gb.png",
     "images": [
@@ -177,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta06d26ec70ce2201/blt769e7259c78b03c4-76478_Prod.png",
     "images": [
@@ -217,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0b94af9e12635767/blt4c2e54d147db4229-43008_Prod.png",
     "images": [
@@ -257,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3cbfcb063feb9a7e/bltbb861aad3aa34ad7-60501_Prod.png",
     "images": [
@@ -297,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltf38b3a7af34f19cf/80057.png",
     "images": [
@@ -337,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1e71e6f33218f354/10345_Prod.png",
     "images": [
@@ -377,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltaa445fffef92ed12/blt7dfb23345a86bf30-77985_Prod.png",
     "images": [
@@ -417,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc87eae92abe73051/42673_Prod_en-gb.png",
     "images": [
@@ -457,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt654cf742adb57908/42671_Prod_en-gb.png",
     "images": [
@@ -497,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1d21181b67dcb8a5/75398_Prod.png",
     "images": [
@@ -537,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt569d545d0a7c06c7/42214_Prod.png",
     "images": [
@@ -577,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta5b2440f50d364a8/45203_Prod_Crop.png",
     "images": [
@@ -617,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltd23bd33841cf67dc/blt6045e3b889a69670-60494_Prod.png",
     "images": [
@@ -640,6 +861,47 @@ export default [
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   },
   {
+    "id": "76325",
+    "zh": "漫威复仇者联盟：奥创纪元 昆式战斗机",
+    "ko": "어벤져스: 에이지 오브 울트론 퀸젯",
+    "en": "Avengers: Age of Ultron Quinjet",
+    "series": "MARVEL",
+    "seriesZh": "漫威",
+    "seriesKo": "마블",
+    "pieces": 1131,
+    "age": "12+",
+    "cny": 702,
+    "krw": 127425,
+    "china": 1170,
+    "korea": 169900,
+    "global": 129.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt64ee021762307f92/76325_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt64ee021762307f92/76325_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltb3379bdd3aec4b3c/76325_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf6e8724d49d496e9/76325_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/avengers-age-of-ultron-quinjet-76325",
+      "kr": "https://www.lego.com/ko-kr/product/avengers-age-of-ultron-quinjet-76325",
+      "cn": "https://www.lego.com/zh-cn/product/avengers-age-of-ultron-quinjet-76325"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/avengers-age-of-ultron-quinjet-76325",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "21361",
     "zh": "Gremlins™: Gizmo",
     "ko": "그렘린™: 기즈모",
@@ -657,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9232ef3bda9317b6/21361_Prod.png",
     "images": [
@@ -697,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0345da5be8baeb2d/11372_Prod_en-gb.png",
     "images": [
@@ -716,246 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/autumn-cottage-garden-11372",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43026",
-    "zh": "Nike Air Force 1 x 乐高®套装",
-    "ko": "Nike 에어 포스 1 x 레고® 세트",
-    "en": "Nike Air Force 1 x LEGO® Set",
-    "series": "NIKE",
-    "seriesZh": "Nike",
-    "seriesKo": "레고® 에디션",
-    "pieces": 1093,
-    "age": "12+",
-    "cny": 540,
-    "krw": 119925,
-    "china": 900,
-    "korea": 159900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt1e9850b2422c6389/43026_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt1e9850b2422c6389/43026_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3553b57312ab2e71/43026_WEB_SEC03_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt7b0f635bfedd7351/43026_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/nike-air-force-1-x-lego-set-43026",
-      "kr": "https://www.lego.com/ko-kr/product/nike-air-force-1-x-lego-set-43026",
-      "cn": "https://www.lego.com/zh-cn/product/nike-air-force-1-x-lego-set-43026"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/nike-air-force-1-x-lego-set-43026",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75428",
-    "zh": "配备STAP的战斗机器人",
-    "ko": "배틀 드로이드™와 STAP",
-    "en": "Battle Droid™ with STAP",
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 1088,
-    "age": "12+",
-    "cny": 756,
-    "krw": 142425,
-    "china": 1260,
-    "korea": 189900,
-    "global": 139.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt5677559d5974a4f3/75428_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt5677559d5974a4f3/75428_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt78f7988e14df1df7/75428_WEB_SEC03_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt77e7a45801d4a659/75428_WEB_SEC02_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/battle-droid-with-stap-75428",
-      "kr": "https://www.lego.com/ko-kr/product/battle-droid-with-stap-75428",
-      "cn": "https://www.lego.com/zh-cn/product/battle-droid-with-stap-75428"
-    },
-    "availability": {
-      "us": "F_BACKORDER_FOR_DATE",
-      "kr": "H_OUT_OF_STOCK",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/battle-droid-with-stap-75428",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60445",
-    "zh": "F1® 卡车与红牛 RB20 和阿斯顿·马丁 AMR24 F1® 赛车",
-    "ko": "F1® 트럭과 RB20 & AMR24 F1® 레이스 카",
-    "en": "F1® Truck with RB20 & AMR24 F1® Cars",
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 1086,
-    "age": "8+",
-    "cny": 540,
-    "krw": 112425,
-    "china": 900,
-    "korea": 149900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt552b70def7e93527/60445_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt552b70def7e93527/60445_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt079d358257b20805/60445_WEB_SEC02_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt2063a0f066a54c6e/60445_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/f1-truck-with-rb20-amr24-f1-cars-60445",
-      "kr": "https://www.lego.com/ko-kr/product/f1-truck-with-rb20-amr24-f1-cars-60445",
-      "cn": "https://www.lego.com/zh-cn/product/f1-truck-with-rb20-amr24-f1-cars-60445"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/f1-truck-with-rb20-amr24-f1-cars-60445",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43030",
-    "zh": "奥利维亚·罗德里戈的秘密储藏室",
-    "ko": "올리비아 로드리고의 비밀 창고",
-    "en": "Olivia Rodrigo's Secret Storage",
-    "series": "EDITIONS",
-    "seriesZh": "EDITIONS 系列",
-    "seriesKo": "에디션",
-    "pieces": 1085,
-    "age": "10+",
-    "cny": 432,
-    "krw": 93675,
-    "china": 720,
-    "korea": 124900,
-    "global": 79.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt607ba83f16cf37bf/blt2bb0292acbdc40ec-43030_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt607ba83f16cf37bf/blt2bb0292acbdc40ec-43030_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt8098c2bb808e3d1c/blt2bb0292acbdc40ec-43030_WEB_SEC03_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt25beb50a406b678d/blt2bb0292acbdc40ec-43030_WEB_SEC03.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/olivia-rodrigos-secret-storage-43030",
-      "kr": "https://www.lego.com/ko-kr/product/olivia-rodrigos-secret-storage-43030",
-      "cn": "https://www.lego.com/zh-cn/product/olivia-rodrigos-secret-storage-43030"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/olivia-rodrigos-secret-storage-43030",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "77077",
-    "zh": "克鲁卜",
-    "ko": "클롬보",
-    "en": "Klombo",
-    "series": "FORTNITE",
-    "seriesZh": "堡垒之夜",
-    "seriesKo": "포트나이트",
-    "pieces": 1084,
-    "age": "10+",
-    "cny": 594,
-    "krw": 112425,
-    "china": 990,
-    "korea": 149900,
-    "global": 109.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltbd2d962fc61c9aaa/77077_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltbd2d962fc61c9aaa/77077_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt8dba134a6ce9e5e9/77077_WEB_SEC06_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltdbc56af07e889c69/77077_WEB_SEC01_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/klombo-77077",
-      "kr": "https://www.lego.com/ko-kr/product/klombo-77077",
-      "cn": "https://www.lego.com/zh-cn/product/klombo-77077"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/klombo-77077",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "72168",
-    "zh": "烈空坐",
-    "ko": "레쿠쟈",
-    "en": "Rayquaza",
-    "series": "POKÉMON",
-    "seriesZh": "宝可梦",
-    "seriesKo": "포켓몬",
-    "pieces": 1083,
-    "age": "18+",
-    "cny": 702,
-    "krw": 153675,
-    "china": 1170,
-    "korea": 204900,
-    "global": 129.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt3d8614f5f0757861/blt18a8af04322ee19c-72168_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt3d8614f5f0757861/blt18a8af04322ee19c-72168_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltcb69c04cacb0004c/blt18a8af04322ee19c-72168_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt18b364289a171ce2/blt18a8af04322ee19c-72168_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/rayquaza-72168",
-      "kr": "https://www.lego.com/ko-kr/product/rayquaza-72168",
-      "cn": "https://www.lego.com/zh-cn/product/rayquaza-72168"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/rayquaza-72168",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

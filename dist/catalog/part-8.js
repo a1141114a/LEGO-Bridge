@@ -1,5 +1,251 @@
 export default [
   {
+    "id": "43026",
+    "zh": "Nike Air Force 1 x 乐高®套装",
+    "ko": "Nike 에어 포스 1 x 레고® 세트",
+    "en": "Nike Air Force 1 x LEGO® Set",
+    "series": "NIKE",
+    "seriesZh": "Nike",
+    "seriesKo": "레고® 에디션",
+    "pieces": 1093,
+    "age": "12+",
+    "cny": 540,
+    "krw": 119925,
+    "china": 900,
+    "korea": 159900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt1e9850b2422c6389/43026_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1e9850b2422c6389/43026_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3553b57312ab2e71/43026_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt7b0f635bfedd7351/43026_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/nike-air-force-1-x-lego-set-43026",
+      "kr": "https://www.lego.com/ko-kr/product/nike-air-force-1-x-lego-set-43026",
+      "cn": "https://www.lego.com/zh-cn/product/nike-air-force-1-x-lego-set-43026"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/nike-air-force-1-x-lego-set-43026",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75428",
+    "zh": "配备STAP的战斗机器人",
+    "ko": "배틀 드로이드™와 STAP",
+    "en": "Battle Droid™ with STAP",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 1088,
+    "age": "12+",
+    "cny": 756,
+    "krw": 142425,
+    "china": 1260,
+    "korea": 189900,
+    "global": 139.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt5677559d5974a4f3/75428_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5677559d5974a4f3/75428_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt78f7988e14df1df7/75428_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt77e7a45801d4a659/75428_WEB_SEC02_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/battle-droid-with-stap-75428",
+      "kr": "https://www.lego.com/ko-kr/product/battle-droid-with-stap-75428",
+      "cn": "https://www.lego.com/zh-cn/product/battle-droid-with-stap-75428"
+    },
+    "availability": {
+      "us": "F_BACKORDER_FOR_DATE",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/battle-droid-with-stap-75428",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60445",
+    "zh": "F1® 卡车与红牛 RB20 和阿斯顿·马丁 AMR24 F1® 赛车",
+    "ko": "F1® 트럭과 RB20 & AMR24 F1® 레이스 카",
+    "en": "F1® Truck with RB20 & AMR24 F1® Cars",
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 1086,
+    "age": "8+",
+    "cny": 540,
+    "krw": 112425,
+    "china": 900,
+    "korea": 149900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt552b70def7e93527/60445_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt552b70def7e93527/60445_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt079d358257b20805/60445_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt2063a0f066a54c6e/60445_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/f1-truck-with-rb20-amr24-f1-cars-60445",
+      "kr": "https://www.lego.com/ko-kr/product/f1-truck-with-rb20-amr24-f1-cars-60445",
+      "cn": "https://www.lego.com/zh-cn/product/f1-truck-with-rb20-amr24-f1-cars-60445"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/f1-truck-with-rb20-amr24-f1-cars-60445",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43030",
+    "zh": "奥利维亚·罗德里戈的秘密储藏室",
+    "ko": "올리비아 로드리고의 비밀 창고",
+    "en": "Olivia Rodrigo's Secret Storage",
+    "series": "EDITIONS",
+    "seriesZh": "EDITIONS 系列",
+    "seriesKo": "에디션",
+    "pieces": 1085,
+    "age": "10+",
+    "cny": 432,
+    "krw": 93675,
+    "china": 720,
+    "korea": 124900,
+    "global": 79.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt607ba83f16cf37bf/blt2bb0292acbdc40ec-43030_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt607ba83f16cf37bf/blt2bb0292acbdc40ec-43030_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8098c2bb808e3d1c/blt2bb0292acbdc40ec-43030_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt25beb50a406b678d/blt2bb0292acbdc40ec-43030_WEB_SEC03.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/olivia-rodrigos-secret-storage-43030",
+      "kr": "https://www.lego.com/ko-kr/product/olivia-rodrigos-secret-storage-43030",
+      "cn": "https://www.lego.com/zh-cn/product/olivia-rodrigos-secret-storage-43030"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/olivia-rodrigos-secret-storage-43030",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "77077",
+    "zh": "克鲁卜",
+    "ko": "클롬보",
+    "en": "Klombo",
+    "series": "FORTNITE",
+    "seriesZh": "堡垒之夜",
+    "seriesKo": "포트나이트",
+    "pieces": 1084,
+    "age": "10+",
+    "cny": 594,
+    "krw": 112425,
+    "china": 990,
+    "korea": 149900,
+    "global": 109.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltbd2d962fc61c9aaa/77077_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltbd2d962fc61c9aaa/77077_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8dba134a6ce9e5e9/77077_WEB_SEC06_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltdbc56af07e889c69/77077_WEB_SEC01_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/klombo-77077",
+      "kr": "https://www.lego.com/ko-kr/product/klombo-77077",
+      "cn": "https://www.lego.com/zh-cn/product/klombo-77077"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/klombo-77077",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "72168",
+    "zh": "烈空坐",
+    "ko": "레쿠쟈",
+    "en": "Rayquaza",
+    "series": "POKÉMON",
+    "seriesZh": "宝可梦",
+    "seriesKo": "포켓몬",
+    "pieces": 1083,
+    "age": "18+",
+    "cny": 702,
+    "krw": 153675,
+    "china": 1170,
+    "korea": 204900,
+    "global": 129.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3d8614f5f0757861/blt18a8af04322ee19c-72168_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3d8614f5f0757861/blt18a8af04322ee19c-72168_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcb69c04cacb0004c/blt18a8af04322ee19c-72168_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt18b364289a171ce2/blt18a8af04322ee19c-72168_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/rayquaza-72168",
+      "kr": "https://www.lego.com/ko-kr/product/rayquaza-72168",
+      "cn": "https://www.lego.com/zh-cn/product/rayquaza-72168"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/rayquaza-72168",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "31387",
     "zh": "海盗船",
     "ko": "전설의 해적선",
@@ -17,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt61050c299a97afc9/blte1f97ee73c17994d-31387_Prod.png",
     "images": [
@@ -57,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltcf99ef5c7ef1e796/60471_Prod_en-gb.png",
     "images": [
@@ -97,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt7aab0264eac14333/60440_Prod.png",
     "images": [
@@ -137,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0f00b955755f6344/blt9b1cd88cf5ab5032-11376_Prod.png",
     "images": [
@@ -177,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt55cbf25c777dd296/71859_Prod_en-gb.png",
     "images": [
@@ -217,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1dbcc5584e0e1f47/75379_alt2.png",
     "images": [
@@ -257,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt15f914b936f5b57a/75403_Prod_en-gb.png",
     "images": [
@@ -297,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt01e041de08bd7aa0/75416_Prod_en-gb.png",
     "images": [
@@ -337,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte08421a0fcac05a9/blt81695fb53e22c3a8-80118_Prod.png",
     "images": [
@@ -377,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9a1f2f1afe57797e/21371_Prod.png",
     "images": [
@@ -417,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltf1dd8bd7a9039d82/blt6411630c5fe4ea67-75645_Prod.png",
     "images": [
@@ -457,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltb34d060f5d70fb4c/blt5dd4a50337c9d86b-75461_Prod.png",
     "images": [
@@ -497,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt645fbcdcd40afed7/blt6e3b5c4a46f9e0c5-71871_Prod.png",
     "images": [
@@ -537,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt647167f7aee76862/blte9afc6fc58e0fa7b-11380_Prod.png",
     "images": [
@@ -577,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9d08d73b642816b6/75430_Prod_en-gb.png",
     "images": [
@@ -617,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte11405ba30b639f8/bltc0f65a1c7837b680-71514_Prod.png",
     "images": [
@@ -657,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt02a7cd3b5e845da7/42674_Prod_en-gb.png",
     "images": [
@@ -697,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltd7895bf495988a25/77093_Prod.png",
     "images": [
@@ -716,246 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/ocarina-of-time-the-final-battle-77093",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71846",
-    "zh": "烈焰骑士机甲",
-    "ko": "파이어 나이트 로봇",
-    "en": "The Fire Knight Mech",
-    "series": "NINJAGO",
-    "seriesZh": "幻影忍者",
-    "seriesKo": "닌자고",
-    "pieces": 996,
-    "age": "14+",
-    "cny": 648,
-    "krw": 127425,
-    "china": 1080,
-    "korea": 169900,
-    "global": 119.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltbd4be09b55a2a95b/71846_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltbd4be09b55a2a95b/71846_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt2b38823549b0561d/71846_WEB_SEC01_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blte62613810ac30e37/71846_Lifestyle_Cons_en-gb.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/the-fire-knight-mech-71846",
-      "kr": "https://www.lego.com/ko-kr/product/the-fire-knight-mech-71846",
-      "cn": "https://www.lego.com/zh-cn/product/the-fire-knight-mech-71846"
-    },
-    "availability": {
-      "us": "K_SOLD_OUT",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/the-fire-knight-mech-71846",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60505",
-    "zh": "飞机，工程车和悬浮船组合套装",
-    "ko": "비행기, 서비스 트럭, 호버크래프트 리믹스",
-    "en": "Airplane, Service Truck & Hovercraft Remix",
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 990,
-    "age": "7+",
-    "cny": 378,
-    "krw": 74925,
-    "china": 630,
-    "korea": 99900,
-    "global": 69.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltfa864b4b2110824e/60505_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltfa864b4b2110824e/60505_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blta2a5c5ca28ea2773/60505_WEB_SEC05_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt2f610ea6013b23c2/60505_WEB_SEC03_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/airplane-service-truck-hovercraft-remix-60505",
-      "kr": "https://www.lego.com/ko-kr/product/airplane-service-truck-hovercraft-remix-60505",
-      "cn": "https://www.lego.com/zh-cn/product/airplane-service-truck-hovercraft-remix-60505"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/airplane-service-truck-hovercraft-remix-60505",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "76976",
-    "zh": "棘龙与风神翼龙空中任务",
-    "ko": "스피노사우루스와 케찰코아툴루스 비행 미션",
-    "en": "Spinosaurus & Quetzalcoatlus Air Mission",
-    "series": "JURASSIC WORLD",
-    "seriesZh": "侏罗纪世界",
-    "seriesKo": "쥬라기 월드",
-    "pieces": 984,
-    "age": "8+",
-    "cny": 864,
-    "krw": 157425,
-    "china": 1440,
-    "korea": 209900,
-    "global": 159.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt380694221ffbc765/76976_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt380694221ffbc765/76976_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltebaf24929cca223f/76976_WEB_SEC03_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltf0cefd32386b3960/76976_WEB_SEC04_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/spinosaurus-quetzalcoatlus-air-mission-76976",
-      "kr": "https://www.lego.com/ko-kr/product/spinosaurus-quetzalcoatlus-air-mission-76976",
-      "cn": "https://www.lego.com/zh-cn/product/spinosaurus-quetzalcoatlus-air-mission-76976"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/spinosaurus-quetzalcoatlus-air-mission-76976",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60419",
-    "zh": "监狱岛",
-    "ko": "경찰 감옥섬",
-    "en": "Police Prison Island",
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 980,
-    "age": "7+",
-    "cny": 540,
-    "krw": 112425,
-    "china": 900,
-    "korea": 149900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt402b1fe599d2d64e/60419_alt1.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt402b1fe599d2d64e/60419_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt6167317f1251ce57/60419.png",
-      "https://www.lego.com/cdn/cs/set/assets/blte00c035c572df145/60419_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/police-prison-island-60419",
-      "kr": "https://www.lego.com/ko-kr/product/police-prison-island-60419",
-      "cn": "https://www.lego.com/zh-cn/product/police-prison-island-60419"
-    },
-    "availability": {
-      "us": "H_OUT_OF_STOCK",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/police-prison-island-60419",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75435",
-    "zh": "费卢西亚战役分裂势力运兵艇",
-    "ko": "펠루시아 분리주의자 MTT™의 전투",
-    "en": "Battle of Felucia Separatist MTT™",
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 976,
-    "age": "9+",
-    "cny": 864,
-    "krw": 157425,
-    "china": 1440,
-    "korea": 209900,
-    "global": 159.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt2b73e68649059dea/75435_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt2b73e68649059dea/75435_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltce33c713b3d61343/75435_WEB_SEC01_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt0afeceb7e284ff38/75435_WEB_SEC02_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/battle-of-felucia-separatist-mtt-75435",
-      "kr": "https://www.lego.com/ko-kr/product/battle-of-felucia-separatist-mtt-75435",
-      "cn": "https://www.lego.com/zh-cn/product/battle-of-felucia-separatist-mtt-75435"
-    },
-    "availability": {
-      "us": "K_SOLD_OUT",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/battle-of-felucia-separatist-mtt-75435",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42209",
-    "zh": "沃尔沃 L120 Electric 轮式装载机",
-    "ko": "Volvo L120 Electric 휠 로더",
-    "en": "Volvo L120 Electric Wheel Loader",
-    "series": "TECHNIC",
-    "seriesZh": "机械组",
-    "seriesKo": "테크닉",
-    "pieces": 973,
-    "age": "9+",
-    "cny": 648,
-    "krw": 112425,
-    "china": 1080,
-    "korea": 149900,
-    "global": 119.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blte0550cc3ef3afc1f/42209_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blte0550cc3ef3afc1f/42209_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt302dc4c9a66714f6/42209_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt6365cb814ae8bb1b/42209_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/volvo-l120-electric-wheel-loader-42209",
-      "kr": "https://www.lego.com/ko-kr/product/volvo-l120-electric-wheel-loader-42209",
-      "cn": "https://www.lego.com/zh-cn/product/volvo-l120-electric-wheel-loader-42209"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/volvo-l120-electric-wheel-loader-42209",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

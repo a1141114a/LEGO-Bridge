@@ -1,5 +1,87 @@
 export default [
   {
+    "id": "10335",
+    "zh": "坚忍号探险船",
+    "ko": "인듀어런스호",
+    "en": "The Endurance",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 3011,
+    "age": "18+",
+    "cny": 1458,
+    "krw": 262425,
+    "china": 2430,
+    "korea": 349900,
+    "global": 269.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3d163abce4f7ba5f/10335_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3d163abce4f7ba5f/10335_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltad8a32f4c930995d/10335_WEB_SEC02_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf46511c0c0e5e6c4/10335_WEB_SEC01_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-endurance-10335",
+      "kr": "https://www.lego.com/ko-kr/product/the-endurance-10335",
+      "cn": "https://www.lego.com/zh-cn/product/the-endurance-10335"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-endurance-10335",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75409",
+    "zh": "詹戈·费特的喷火级星际飞船",
+    "ko": "장고 펫의 파이어스프레이급 우주선",
+    "en": "Jango Fett's Firespray-Class Starship",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 2970,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 307425,
+    "china": 2700,
+    "korea": 409900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt616e72cc7801d6d0/75409_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt616e72cc7801d6d0/75409_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4748aea743c88e7d/75409_WEB_SEC07_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8b3b4821d0b9733d/75409_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/jango-fetts-firespray-class-starship-75409",
+      "kr": "https://www.lego.com/ko-kr/product/jango-fetts-firespray-class-starship-75409",
+      "cn": "https://www.lego.com/zh-cn/product/jango-fetts-firespray-class-starship-75409"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/jango-fetts-firespray-class-starship-75409",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "76300",
     "zh": "阿卡姆疯人院",
     "ko": "아캄 어사일럼™",
@@ -17,6 +99,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltfa7d67cc6648aff3/blt5570081e26e2fdbe-76300_Prod.png",
     "images": [
@@ -57,6 +140,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt72d352ea938eb694/43263_Prod_en-gb.png",
     "images": [
@@ -97,6 +181,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt58ef7328bce3e306/21363_Prod_en-gb.png",
     "images": [
@@ -137,6 +222,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltcbe6394b9677d5bd/42177_Prod.png",
     "images": [
@@ -177,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltcf20096d15e25f4c/10365_Prod_en-gb.png",
     "images": [
@@ -217,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0cd7fa5a1e98c5c7/43020_Prod.png",
     "images": [
@@ -257,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blteb1a7b4f36578ecd/2000430.png",
     "images": [
@@ -297,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta8d5b7c13b5a3a81/76444_Prod_en-gb.png",
     "images": [
@@ -337,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte09f96efc93d5c1d/76419.png",
     "images": [
@@ -377,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte22f55d6a533beae/31215_Prod_en-gb.png",
     "images": [
@@ -417,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt8170cb2935ea6596/11370_Prod_en-gb.png",
     "images": [
@@ -457,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt08e304cdd764c23b/77078_Prod.png",
     "images": [
@@ -497,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9b888eb820c87f1c/2000431.png",
     "images": [
@@ -537,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltab84dc271e0b2c89/10360_Prod.png",
     "images": [
@@ -577,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltf77db79fda588d75/76437_Prod.png",
     "images": [
@@ -617,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt59f10fadf173c1ba/blt3435be8c14df0276-72154_Prod_en-gb.png",
     "images": [
@@ -657,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc939f4923794698e/80054_alt1.png",
     "images": [
@@ -697,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc6d87e5e7bacb3ae/21333.png",
     "images": [
@@ -737,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt004d35f6a28b7905/blte7ecfac1aa09d7c5-11374_Prod.png",
     "images": [
@@ -777,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt28e79ccdf0659cef/42175_Prod.png",
     "images": [
@@ -817,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc6f27d4a45e9571c/76355_Prod.png",
     "images": [
@@ -857,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt8b9de9e7d31005f9/72050_Prod.png",
     "images": [
@@ -876,86 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/mario-kart-luigi-mach-8-72050",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "21351",
-    "zh": "Disney Tim Burton's The Nightmare Before Christmas",
-    "ko": "디즈니 팀 버튼의 크리스마스 악몽",
-    "en": "Disney Tim Burton's The Nightmare Before Christmas",
-    "series": "IDEAS",
-    "seriesZh": "IDEAS 创意系列",
-    "seriesKo": "아이디어",
-    "pieces": 2193,
-    "age": "18+",
-    "cny": 1080,
-    "krw": 202425,
-    "china": 1800,
-    "korea": 269900,
-    "global": 199.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3d8bb94cad5402d0/21351_WEB_SEC03_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltd576ad04ce4b92b8/21351_WEB_SEC04_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
-      "kr": "https://www.lego.com/ko-kr/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
-      "cn": null
-    },
-    "availability": {
-      "us": "K_SOLD_OUT",
-      "kr": "E_AVAILABLE",
-      "cn": null
-    },
-    "source": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71872",
-    "zh": "终极战斗神龙",
-    "ko": "울트라 드래곤 배틀",
-    "en": "Ultra Dragon Battle",
-    "series": "NINJAGO",
-    "seriesZh": "幻影忍者",
-    "seriesKo": "닌자고",
-    "pieces": 2178,
-    "age": "12+",
-    "cny": 1080,
-    "krw": 224925,
-    "china": 1800,
-    "korea": 299900,
-    "global": 199.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt054da51f60bd0eec/blt6c6d8825f3ae31df-71872_WEB_SEC01_NOBG_en-us.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltfb737767f202b409/blt6c6d8825f3ae31df-71872_WEB_SEC02_NOBG_en-us.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
-      "kr": "https://www.lego.com/ko-kr/product/ultra-dragon-battle-71872",
-      "cn": "https://www.lego.com/zh-cn/product/ultra-dragon-battle-71872"
-    },
-    "availability": {
-      "us": "H_OUT_OF_STOCK",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

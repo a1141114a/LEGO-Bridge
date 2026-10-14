@@ -1,5 +1,46 @@
 export default [
   {
+    "id": "10366",
+    "zh": "热带水族箱",
+    "ko": "열대 수족관",
+    "en": "Tropical Aquarium",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 4154,
+    "age": "18+",
+    "cny": 2592,
+    "krw": 487425,
+    "china": 4320,
+    "korea": 649900,
+    "global": 479.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt053b7ef00b4fb216/10366_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blte5dbbdcd3ade25bf/10366_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
+      "kr": "https://www.lego.com/ko-kr/product/tropical-aquarium-10366",
+      "cn": "https://www.lego.com/zh-cn/product/tropical-aquarium-10366"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "42232",
     "zh": "科尼赛克 Sadair Spear 超跑",
     "ko": "Koenigsegg Sadair's Spear Megacar",
@@ -17,6 +58,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltdd490f7023a9625c/blt115568a63fa37862-42232_Prod.png",
     "images": [
@@ -57,6 +99,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc976e2c6d3cedd87/21356_Prod_en-gb.png",
     "images": [
@@ -97,6 +140,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltfab50eb14c5304b1/blteb3348aef8bd5467-31221_Prod.png",
     "images": [
@@ -137,6 +181,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltad48b7c771f86707/75397_Prod.png",
     "images": [
@@ -177,6 +222,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt4084399ce5ccfe6b/43302_Prod.png",
     "images": [
@@ -217,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt519dac201a3dd4c1/42172.png",
     "images": [
@@ -257,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt70b1f6881b0e0791/21353_Prod.png",
     "images": [
@@ -297,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1f525e9848d6a7c2/bltdc033ed672251563-21067_Prod.png",
     "images": [
@@ -337,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltd01c9a5d39a5b3bc/10341.png",
     "images": [
@@ -377,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt062f49aeb5924ace/10356_Prod_en-gb.png",
     "images": [
@@ -417,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltfbb0ca97c8981815/76476_Prod.png",
     "images": [
@@ -457,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltbbc606932496c706/71814.png",
     "images": [
@@ -497,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0fab61b6fb67d00c/11371_Prod_en-gb.png",
     "images": [
@@ -537,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta2a10403bde99e82/21063_Prod_en-gb.png",
     "images": [
@@ -577,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltdee182f48a19a789/75640_Prod_en-gb.png",
     "images": [
@@ -617,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt34caca320d47f97e/71837_Prod_en-gb.png",
     "images": [
@@ -657,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1040de54b3d131a9/76457_Prod_en-gb.png",
     "images": [
@@ -697,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3efb3440eaf07116/blt4065b9e490396e28-31220_Prod.png",
     "images": [
@@ -737,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltae6e1e985a290a75/41843_WEB_PRI_NOBG_2.png",
     "images": [
@@ -777,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt490fcaeb0097ae2f/76968_Prod.png",
     "images": [
@@ -800,6 +861,47 @@ export default [
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   },
   {
+    "id": "76294",
+    "zh": "X 战警：X 公馆",
+    "ko": "엑스맨: 엑스 맨션",
+    "en": "X-Men: The X-Mansion",
+    "series": "MARVEL",
+    "seriesZh": "漫威",
+    "seriesKo": "마블",
+    "pieces": 3093,
+    "age": "18+",
+    "cny": 1782,
+    "krw": 322425,
+    "china": 2970,
+    "korea": 429900,
+    "global": 329.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blteccffafca58905c3/76294_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blteccffafca58905c3/76294_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltc54755b3a6270cb0/76294_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd06a3d797ee51fe1/76294_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/x-men-the-x-mansion-76294",
+      "kr": "https://www.lego.com/ko-kr/product/x-men-the-x-mansion-76294",
+      "cn": "https://www.lego.com/zh-cn/product/x-men-the-x-mansion-76294"
+    },
+    "availability": {
+      "us": "OUT_OF_STOCK",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/ko-kr/product/x-men-the-x-mansion-76294",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "31212",
     "zh": "银河系",
     "ko": "은하수 은하계",
@@ -817,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltbbddf9140f849bb9/31212.png",
     "images": [
@@ -857,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltb8d531510d709448/blt5ec263941edf7bdd-76354_Prod.png",
     "images": [
@@ -876,86 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/shield-helicarrier-76354",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "10335",
-    "zh": "坚忍号探险船",
-    "ko": "인듀어런스호",
-    "en": "The Endurance",
-    "series": "ICONS",
-    "seriesZh": "ICONS 系列",
-    "seriesKo": "아이콘",
-    "pieces": 3011,
-    "age": "18+",
-    "cny": 1458,
-    "krw": 262425,
-    "china": 2430,
-    "korea": 349900,
-    "global": 269.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt3d163abce4f7ba5f/10335_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt3d163abce4f7ba5f/10335_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltad8a32f4c930995d/10335_WEB_SEC02_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltf46511c0c0e5e6c4/10335_WEB_SEC01_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/the-endurance-10335",
-      "kr": "https://www.lego.com/ko-kr/product/the-endurance-10335",
-      "cn": "https://www.lego.com/zh-cn/product/the-endurance-10335"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/the-endurance-10335",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75409",
-    "zh": "詹戈·费特的喷火级星际飞船",
-    "ko": "장고 펫의 파이어스프레이급 우주선",
-    "en": "Jango Fett's Firespray-Class Starship",
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 2970,
-    "age": "18+",
-    "cny": 1620,
-    "krw": 307425,
-    "china": 2700,
-    "korea": 409900,
-    "global": 299.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt616e72cc7801d6d0/75409_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt616e72cc7801d6d0/75409_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt4748aea743c88e7d/75409_WEB_SEC07_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt8b3b4821d0b9733d/75409_WEB_SEC01_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/jango-fetts-firespray-class-starship-75409",
-      "kr": "https://www.lego.com/ko-kr/product/jango-fetts-firespray-class-starship-75409",
-      "cn": "https://www.lego.com/zh-cn/product/jango-fetts-firespray-class-starship-75409"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/jango-fetts-firespray-class-starship-75409",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

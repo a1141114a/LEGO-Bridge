@@ -1,5 +1,374 @@
 export default [
   {
+    "id": "40868",
+    "zh": "大号赤红摆件",
+    "ko": "대형 트레이너 레드 미니피겨",
+    "en": "Up-Scaled Red Minifigure",
+    "series": "MINIFIGURES",
+    "seriesZh": "人仔系列",
+    "seriesKo": "미니피겨",
+    "pieces": 930,
+    "age": "10+",
+    "cny": 432,
+    "krw": 93675,
+    "china": 720,
+    "korea": 124900,
+    "global": 79.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt2ec5ce89bac1779e/bltb704864bcbaae140-40868_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2ec5ce89bac1779e/bltb704864bcbaae140-40868_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt85c40e4024152273/bltb704864bcbaae140-40868_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta049b308ca3e7f60/bltb704864bcbaae140-40868_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/up-scaled-red-minifigure-40868",
+      "kr": "https://www.lego.com/ko-kr/product/up-scaled-red-minifigure-40868",
+      "cn": "https://www.lego.com/zh-cn/product/up-scaled-red-minifigure-40868"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/up-scaled-red-minifigure-40868",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75447",
+    "zh": "剃刀冠号 (The Razor Crest)",
+    "ko": "레이저 크레스트™",
+    "en": "The Razor Crest™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 930,
+    "age": "10+",
+    "cny": 810,
+    "krw": 172425,
+    "china": 1350,
+    "korea": 229900,
+    "global": 149.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt34b27553596c6ef5/75447_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt34b27553596c6ef5/75447_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt95e571d7eba823e0/75447_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5cb3144962d3aaed/75447_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/the-razor-crest-75447",
+      "kr": "https://www.lego.com/ko-kr/product/the-razor-crest-75447",
+      "cn": "https://www.lego.com/zh-cn/product/the-razor-crest-75447"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/the-razor-crest-75447",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71499",
+    "zh": "马泰奥的喷漆卡车",
+    "ko": "마테오의 스프레이 페인트 트럭",
+    "en": "Mateo's Spray Paint Truck",
+    "series": "DREAMZZZ",
+    "seriesZh": "梦境城猎人",
+    "seriesKo": "드림즈",
+    "pieces": 929,
+    "age": "9+",
+    "cny": 540,
+    "krw": 112425,
+    "china": 900,
+    "korea": 149900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltbdd48d2c30cca0dc/71499_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltbdd48d2c30cca0dc/71499_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5df891aacf0cfe6d/71499_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltaa75efec134d1ae1/71499_WEB_SEC02_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mateos-spray-paint-truck-71499",
+      "kr": "https://www.lego.com/ko-kr/product/mateos-spray-paint-truck-71499",
+      "cn": "https://www.lego.com/zh-cn/product/mateos-spray-paint-truck-71499"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/mateos-spray-paint-truck-71499",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75375",
+    "zh": "千年隼号星际飞船",
+    "ko": "밀레니엄 팔콘™",
+    "en": "Millennium Falcon™",
+    "series": "STAR WARS",
+    "seriesZh": "星球大战",
+    "seriesKo": "스타워즈",
+    "pieces": 921,
+    "age": "18+",
+    "cny": 459,
+    "krw": 89925,
+    "china": 765,
+    "korea": 119900,
+    "global": 84.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltea91c53f2609bfa5/75375.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt167789331af69956/75375_alt1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blta90f7f8bf0cee839/75375_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/millennium-falcon-75375",
+      "kr": "https://www.lego.com/ko-kr/product/millennium-falcon-75375",
+      "cn": "https://www.lego.com/zh-cn/product/millennium-falcon-75375"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/millennium-falcon-75375",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "31389",
+    "zh": "摩天轮",
+    "ko": "대관람차",
+    "en": "Iconic Ferris Wheel",
+    "series": "CREATOR 3-IN-1",
+    "seriesZh": "创意百变三合一",
+    "seriesKo": "크리에이터 3-in-1",
+    "pieces": 916,
+    "age": "8+",
+    "cny": 540,
+    "krw": 104925,
+    "china": 900,
+    "korea": 139900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt0f9d1b65bc1bc6be/bltda4538cf414fdc36-31389_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt0f9d1b65bc1bc6be/bltda4538cf414fdc36-31389_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt69ed900a9c0c5336/31389_3in1build_reg.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltaa3ddd2e1659ecfa/bltda4538cf414fdc36-31389_WEB_SEC01_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/iconic-ferris-wheel-31389",
+      "kr": "https://www.lego.com/ko-kr/product/iconic-ferris-wheel-31389",
+      "cn": "https://www.lego.com/zh-cn/product/iconic-ferris-wheel-31389"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/iconic-ferris-wheel-31389",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60367",
+    "zh": "Passenger Airplane",
+    "ko": "여객기",
+    "en": "Passenger Airplane",
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 913,
+    "age": "7+",
+    "cny": 648,
+    "krw": 116175,
+    "china": 1080,
+    "korea": 154900,
+    "global": 119.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta636ffccc87fdf4b/60367.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta636ffccc87fdf4b/60367.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltc107c40c81b4c8b1/60367_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltbb6055c6679c3028/60367_alt5.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/passenger-airplane-60367",
+      "kr": "https://www.lego.com/ko-kr/product/passenger-airplane-60367",
+      "cn": null
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/passenger-airplane-60367",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76304",
+    "zh": "蝙蝠永恒™蝙蝠战车 ",
+    "ko": "배트맨 포에버™ 배트모빌™",
+    "en": "Batman Forever™ Batmobile™",
+    "series": "BATMAN",
+    "seriesZh": "蝙蝠侠",
+    "seriesKo": "배트맨",
+    "pieces": 909,
+    "age": "12+",
+    "cny": 540,
+    "krw": 112425,
+    "china": 900,
+    "korea": 149900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltadc1db6fcaf2a3ad/76304_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltadc1db6fcaf2a3ad/76304_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt0b60e03ed11ff0df/76304_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltbf93089058b50293/76304_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/batman-forever-batmobile-76304",
+      "kr": "https://www.lego.com/ko-kr/product/batman-forever-batmobile-76304",
+      "cn": "https://www.lego.com/zh-cn/product/batman-forever-batmobile-76304"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/batman-forever-batmobile-76304",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76463",
+    "zh": "霍格沃茨城堡：校医室",
+    "ko": "호그와트™ 성: 마법학교 병동",
+    "en": "Hogwarts™ Castle: Hospital Wing",
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 907,
+    "age": "9+",
+    "cny": 540,
+    "krw": 104925,
+    "china": 900,
+    "korea": 139900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb722633ab53c083e/76463_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb722633ab53c083e/76463_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta708bad9100b3e92/76463_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5703d379f31a870a/76463_WEB_SEC04_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/hogwarts-castle-hospital-wing-76463",
+      "kr": "https://www.lego.com/ko-kr/product/hogwarts-castle-hospital-wing-76463",
+      "cn": "https://www.lego.com/zh-cn/product/hogwarts-castle-hospital-wing-76463"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/hogwarts-castle-hospital-wing-76463",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "40875",
+    "zh": "大号圣诞老奶奶小人仔",
+    "ko": "대형 산타 할머니 미니피겨",
+    "en": "Up-Scaled Mrs. Claus Minifigure",
+    "series": "OTHER",
+    "seriesZh": "其他系列",
+    "seriesKo": "기타",
+    "pieces": 904,
+    "age": "10+",
+    "cny": 324,
+    "krw": 70425,
+    "china": 540,
+    "korea": 93900,
+    "global": 59.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3f63be50d91997bd/bltf1df1459ba3b1736-40875_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3f63be50d91997bd/bltf1df1459ba3b1736-40875_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt23fb4f6a2a32f36d/bltf1df1459ba3b1736-40875_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt51dbceb6a3cdcd52/bltf1df1459ba3b1736-40875_WEB_SEC02.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/up-scaled-mrs-claus-minifigure-40875",
+      "kr": "https://www.lego.com/ko-kr/product/up-scaled-mrs-claus-minifigure-40875",
+      "cn": "https://www.lego.com/zh-cn/product/up-scaled-mrs-claus-minifigure-40875"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/up-scaled-mrs-claus-minifigure-40875",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "11036",
     "zh": "创意机车",
     "ko": "창의력 자동차",
@@ -17,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt2e65c0cc0597c8dc/11036.png",
     "images": [
@@ -57,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltb2365f8463768d5c/42212_Prod.png",
     "images": [
@@ -97,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt16ab20bfcf8f3d5f/76788_Prod.png",
     "images": [
@@ -137,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3f1c4a3556c2dfc3/60502_Prod_en-gb.png",
     "images": [
@@ -177,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt87a8b69d191c87ee/blt4cca11de79e7fa6a-43014_Prod.png",
     "images": [
@@ -217,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta69205b58fe03124/bltbc19e105e483f56b-43292_Prod.png",
     "images": [
@@ -257,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltbe71f6097b06397a/bltcc4641b19ca76da2-75426_Prod.png",
     "images": [
@@ -297,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt91b18dbcb302f294/43022_Prod.png",
     "images": [
@@ -320,6 +697,47 @@ export default [
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   },
   {
+    "id": "71508",
+    "zh": "狐狸守护者机甲",
+    "ko": "폭스 가디언 로봇",
+    "en": "Fox Guardian Mech",
+    "series": "DREAMZZZ",
+    "seriesZh": "梦境城猎人",
+    "seriesKo": "드림즈",
+    "pieces": 883,
+    "age": "9+",
+    "cny": 432,
+    "krw": 82425,
+    "china": 720,
+    "korea": 109900,
+    "global": 79.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt8a0cfaee8245f2b6/blt3c30a75b31259f26-71508_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8a0cfaee8245f2b6/blt3c30a75b31259f26-71508_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd19dc982adcc0216/blt3c30a75b31259f26-71508_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt76e89c285f44a462/blt3c30a75b31259f26-71508_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/fox-guardian-mech-71508",
+      "kr": "https://www.lego.com/ko-kr/product/fox-guardian-mech-71508",
+      "cn": "https://www.lego.com/zh-cn/product/fox-guardian-mech-71508"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/fox-guardian-mech-71508",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "42235",
     "zh": "法拉利 488 Pista 跑车",
     "ko": "Ferrari 488 Pista",
@@ -337,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt03e6801da1ee5f26/42235_Prod.png",
     "images": [
@@ -377,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt49598d5e86615a68/21362_Prod_en-gb.png",
     "images": [
@@ -417,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6982d0b3c85ad628/11503_Prod_en-gb.png",
     "images": [
@@ -457,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9ea99aea2b526f91/21355_Prod.png",
     "images": [
@@ -497,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt4fa1e0206e541309/10281_Prod.png",
     "images": [
@@ -537,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltd4bcece36ae19cab/blt6caf97af32ad6473-40874_Prod.png",
     "images": [
@@ -556,406 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/santas-holiday-countdown-40874",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71836",
-    "zh": "专注神龙天弧",
-    "ko": "포커스 드래곤",
-    "en": "Arc Dragon of Focus",
-    "series": "NINJAGO",
-    "seriesZh": "幻影忍者",
-    "seriesKo": "닌자고",
-    "pieces": 869,
-    "age": "9+",
-    "cny": 540,
-    "krw": 112425,
-    "china": 900,
-    "korea": 149900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt91d399cd13b699b6/71836_prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt91d399cd13b699b6/71836_prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt8954c38c3e99f9aa/71836_WEB_SEC03_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltab5ffc223cd94659/71836_WEB_SEC04_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/arc-dragon-of-focus-71836",
-      "kr": "https://www.lego.com/ko-kr/product/arc-dragon-of-focus-71836",
-      "cn": "https://www.lego.com/zh-cn/product/arc-dragon-of-focus-71836"
-    },
-    "availability": {
-      "us": "H_OUT_OF_STOCK",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/arc-dragon-of-focus-71836",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "76470",
-    "zh": "魔法福特安格利亚飞车",
-    "ko": "마법의 포드 앵글리아™",
-    "en": "Enchanted Flying Ford Anglia™",
-    "series": "HARRY POTTER",
-    "seriesZh": "哈利·波特",
-    "seriesKo": "해리포터",
-    "pieces": 868,
-    "age": "14+",
-    "cny": 432,
-    "krw": 82425,
-    "china": 720,
-    "korea": 109900,
-    "global": 79.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt1225e4f894a3fce3/76470_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt1225e4f894a3fce3/76470_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt6a6d715a7c726cf7/76470_WEB_SEC01_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt7025421d011c5fad/76470_WEB_SEC04_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/enchanted-flying-ford-anglia-76470",
-      "kr": "https://www.lego.com/ko-kr/product/enchanted-flying-ford-anglia-76470",
-      "cn": "https://www.lego.com/zh-cn/product/enchanted-flying-ford-anglia-76470"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/enchanted-flying-ford-anglia-76470",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "21279",
-    "zh": "末影人塔楼",
-    "ko": "엔더맨 타워",
-    "en": "The Enderman Tower",
-    "series": "MINECRAFT",
-    "seriesZh": "我的世界",
-    "seriesKo": "마인크래프트",
-    "pieces": 867,
-    "age": "9+",
-    "cny": 540,
-    "krw": 112425,
-    "china": 900,
-    "korea": 149900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt69e0c9637cf8c1e8/21279_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt69e0c9637cf8c1e8/21279_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt9c063214ea10332c/21279_WEB_SEC04_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltbdba4894ab101abc/21279_WEB_SEC06_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/the-enderman-tower-21279",
-      "kr": "https://www.lego.com/ko-kr/product/the-enderman-tower-21279",
-      "cn": "https://www.lego.com/zh-cn/product/the-enderman-tower-21279"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/the-enderman-tower-21279",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42703",
-    "zh": "美人鱼过山车",
-    "ko": "인어 롤러코스터 놀이기구",
-    "en": "Mermaid Roller Coaster Ride",
-    "series": "FRIENDS",
-    "seriesZh": "好朋友",
-    "seriesKo": "프렌즈",
-    "pieces": 864,
-    "age": "8+",
-    "cny": 594,
-    "krw": 119925,
-    "china": 990,
-    "korea": 159900,
-    "global": 109.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt52ade487c0abf9a8/bltf676803b7a668dee-42703_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt52ade487c0abf9a8/bltf676803b7a668dee-42703_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltad248a54d33fb5a3/bltf676803b7a668dee-42703_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt7c087448ced53501/bltf676803b7a668dee-42703_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/mermaid-roller-coaster-ride-42703",
-      "kr": "https://www.lego.com/ko-kr/product/mermaid-roller-coaster-ride-42703",
-      "cn": "https://www.lego.com/zh-cn/product/mermaid-roller-coaster-ride-42703"
-    },
-    "availability": {
-      "us": "G_BACKORDER",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/mermaid-roller-coaster-ride-42703",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75689",
-    "zh": "翡翠城和加莫柯城堡",
-    "ko": "에메랄드 시티와 키아모 코 성",
-    "en": "Emerald City & Kiamo Ko Castle",
-    "series": "WICKED",
-    "seriesZh": "Wicked",
-    "seriesKo": "위키드",
-    "pieces": 860,
-    "age": "9+",
-    "cny": 432,
-    "krw": 89925,
-    "china": 720,
-    "korea": 119900,
-    "global": 79.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt43803dd7dc2d0ecc/75689_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt43803dd7dc2d0ecc/75689_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt1c6478976d07b133/75689_Lifestyle_Cons_en-gb.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/blteb38a9e1a8bfb626/75689_Lifestyle_Cons_11_en-gb.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/emerald-city-kiamo-ko-castle-75689",
-      "kr": "https://www.lego.com/ko-kr/product/emerald-city-kiamo-ko-castle-75689",
-      "cn": "https://www.lego.com/zh-cn/product/emerald-city-kiamo-ko-castle-75689"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/emerald-city-kiamo-ko-castle-75689",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "76974",
-    "zh": "沧龙与航船任务",
-    "ko": "브릭 조립식 모사사우루스 보트 미션",
-    "en": "Brick-Built Mosasaurus Boat Mission",
-    "series": "JURASSIC WORLD",
-    "seriesZh": "侏罗纪世界",
-    "seriesKo": "쥬라기 월드",
-    "pieces": 858,
-    "age": "9+",
-    "cny": 324,
-    "krw": 67425,
-    "china": 540,
-    "korea": 89900,
-    "global": 59.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltdf96921ec24813e3/76974_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltdf96921ec24813e3/76974_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt52bffa9a48078a39/76974_Lifestyle_Cons_2_en-gb.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/blt8d54b61abacdeff0/76974_Lifestyle_Cons_4_en-gb.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/brick-built-mosasaurus-boat-mission-76974",
-      "kr": "https://www.lego.com/ko-kr/product/brick-built-mosasaurus-boat-mission-76974",
-      "cn": "https://www.lego.com/zh-cn/product/brick-built-mosasaurus-boat-mission-76974"
-    },
-    "availability": {
-      "us": "K_SOLD_OUT",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/brick-built-mosasaurus-boat-mission-76974",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43016",
-    "zh": "C罗 -足球传奇",
-    "ko": "크리스티아누 호날두 – 레전드 플레이어",
-    "en": "Cristiano Ronaldo – Soccer Legend",
-    "series": "EDITIONS",
-    "seriesZh": "EDITIONS 系列",
-    "seriesKo": "에디션",
-    "pieces": 854,
-    "age": "12+",
-    "cny": 432,
-    "krw": 74940,
-    "china": 720,
-    "korea": 99920,
-    "global": 79.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltcbe1eb673fa9a515/blt0b68962f07cf2e51-43016_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltcbe1eb673fa9a515/blt0b68962f07cf2e51-43016_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt10d5168eb2bdf517/blt0b68962f07cf2e51-43016_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt76c8afdcbd8edf67/blt0b68962f07cf2e51-43016_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/cristiano-ronaldo-soccer-legend-43016",
-      "kr": "https://www.lego.com/ko-kr/product/cristiano-ronaldo-soccer-legend-43016",
-      "cn": "https://www.lego.com/zh-cn/product/cristiano-ronaldo-soccer-legend-43016"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/cristiano-ronaldo-soccer-legend-43016",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "76348",
-    "zh": "决战名场面：《复仇者联盟：毁灭之日》",
-    "ko": "대결전: 어벤져스: 둠스데이",
-    "en": "Epic Battle: Avengers: Doomsday",
-    "series": "MARVEL",
-    "seriesZh": "漫威",
-    "seriesKo": "마블",
-    "pieces": 846,
-    "age": "9+",
-    "cny": 540,
-    "krw": 119925,
-    "china": 900,
-    "korea": 159900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt4cad29cf235a91fb/blte08480224b17a8b6-76348_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt4cad29cf235a91fb/blte08480224b17a8b6-76348_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt62164ff8f6ba28b2/blte08480224b17a8b6-76348_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt24ff0eaabba6ff64/blte08480224b17a8b6-76348_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/epic-battle-avengers-doomsday-76348",
-      "kr": "https://www.lego.com/ko-kr/product/epic-battle-avengers-doomsday-76348",
-      "cn": "https://www.lego.com/zh-cn/product/epic-battle-avengers-doomsday-76348"
-    },
-    "availability": {
-      "us": "G_BACKORDER",
-      "kr": "F_BACKORDER_FOR_DATE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/epic-battle-avengers-doomsday-76348",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75434",
-    "zh": "K-2SO 安保机器人",
-    "ko": "K-2SO™ 보안 드로이드",
-    "en": "K-2SO™ Security Droid",
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 845,
-    "age": "10+",
-    "cny": 486,
-    "krw": 104925,
-    "china": 810,
-    "korea": 139900,
-    "global": 89.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltd1eef14539ca625d/75434_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltd1eef14539ca625d/75434_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltdbfd6f113fd39828/75434_WEB_SEC02_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltebabfca331f2da33/75434_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/k-2so-security-droid-75434",
-      "kr": "https://www.lego.com/ko-kr/product/k-2so-security-droid-75434",
-      "cn": "https://www.lego.com/zh-cn/product/k-2so-security-droid-75434"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/k-2so-security-droid-75434",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60414",
-    "zh": "现代化消防局",
-    "ko": "소방서와 소방트럭",
-    "en": "Fire Station with Fire Truck",
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 843,
-    "age": "6+",
-    "cny": 432,
-    "krw": 86175,
-    "china": 720,
-    "korea": 114900,
-    "global": 79.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt7e2d25e6978bb21b/60414_alt1.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt7e2d25e6978bb21b/60414_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt1a69be3fcb88b72e/60414.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt757c01d6cfc4d0a4/60414_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/fire-station-with-fire-truck-60414",
-      "kr": "https://www.lego.com/ko-kr/product/fire-station-with-fire-truck-60414",
-      "cn": "https://www.lego.com/zh-cn/product/fire-station-with-fire-truck-60414"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/fire-station-with-fire-truck-60414",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

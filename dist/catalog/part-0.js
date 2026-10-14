@@ -17,6 +17,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltec012c948c003fba/10316_alt16.png",
     "images": [
@@ -40,6 +41,47 @@ export default [
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   },
   {
+    "id": "10326",
+    "zh": "自然历史博物馆",
+    "ko": "자연사 박물관",
+    "en": "Natural History Museum",
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 4014,
+    "age": "18+",
+    "cny": 1620,
+    "krw": 299925,
+    "china": 2700,
+    "korea": 399900,
+    "global": 299.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt08ba1f2bb5e8f2fb/10326.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt08ba1f2bb5e8f2fb/10326.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt95c52c33b0630c2b/10326_alt2.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt67ea00337c0d8f51/10326_alt3.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/natural-history-museum-10326",
+      "kr": "https://www.lego.com/ko-kr/product/natural-history-museum-10326",
+      "cn": "https://www.lego.com/zh-cn/product/natural-history-museum-10326"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/natural-history-museum-10326",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "10350",
     "zh": "英伦街角",
     "ko": "튜더 코너",
@@ -57,6 +99,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc38b5911d77d1733/10350_Prod.png",
     "images": [
@@ -97,6 +140,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9956e5fb469cf0ea/blt41320ab511b43baa-21330_Prod.png",
     "images": [
@@ -137,6 +181,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltb4c3d072be35f7fa/75457_Prod.png",
     "images": [
@@ -177,6 +222,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6027837d523f859d/42215_Prod.png",
     "images": [
@@ -217,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3d6245b2b391c560/21359_Prod.png",
     "images": [
@@ -257,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltdc7097183ba14c89/10318.png",
     "images": [
@@ -297,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt312f953b5974a677/blt7fc2e495b14acd1c-21065_Prod.png",
     "images": [
@@ -337,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt0e2b04c977a2dc2a/10307.png",
     "images": [
@@ -377,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6cdf0b53146b5519/10294_Prod.png",
     "images": [
@@ -417,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt597e64c3c0f4786c/75419_Prod.png",
     "images": [
@@ -457,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta3593d3e46871a93/bltfbf117028d65c7c2-11377_Prod.png",
     "images": [
@@ -497,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png",
     "images": [
@@ -537,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt03c6f9be28fbf6ad/72153_Prod.png",
     "images": [
@@ -577,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt51ff6bf5627b4161/71043_Prod.png",
     "images": [
@@ -617,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt370b7e8cc1fcceb2/10333.png",
     "images": [
@@ -657,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt06c6593d8e8d1c13/75367.png",
     "images": [
@@ -697,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta1716ca226f20cab/76269.png",
     "images": [
@@ -737,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt2816e39fc7d5f238/2000409_alt1.jpg",
     "images": [
@@ -777,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt5874875e3d7151f4/blt64c48d12e5273db0-71861_Prod.png",
     "images": [
@@ -817,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltad314f25ee503191/21373_Prod.png",
     "images": [
@@ -857,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt8a83c30181e4401c/40179_Box1_v46.png",
     "images": [
@@ -897,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte79009bca2be0858/21061.png",
     "images": [
@@ -916,46 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/notre-dame-de-paris-21061",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "10366",
-    "zh": "热带水族箱",
-    "ko": "열대 수족관",
-    "en": "Tropical Aquarium",
-    "series": "ICONS",
-    "seriesZh": "ICONS 系列",
-    "seriesKo": "아이콘",
-    "pieces": 4154,
-    "age": "18+",
-    "cny": 2592,
-    "krw": 487425,
-    "china": 4320,
-    "korea": 649900,
-    "global": 479.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt4a29e2eb934b9096/10366_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt053b7ef00b4fb216/10366_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blte5dbbdcd3ade25bf/10366_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
-      "kr": "https://www.lego.com/ko-kr/product/tropical-aquarium-10366",
-      "cn": "https://www.lego.com/zh-cn/product/tropical-aquarium-10366"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/tropical-aquarium-10366",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

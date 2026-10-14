@@ -1,5 +1,87 @@
 export default [
   {
+    "id": "21351",
+    "zh": "Disney Tim Burton's The Nightmare Before Christmas",
+    "ko": "디즈니 팀 버튼의 크리스마스 악몽",
+    "en": "Disney Tim Burton's The Nightmare Before Christmas",
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 2193,
+    "age": "18+",
+    "cny": 1080,
+    "krw": 202425,
+    "china": 1800,
+    "korea": 269900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta1405340d716cd20/21351_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3d8bb94cad5402d0/21351_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd576ad04ce4b92b8/21351_WEB_SEC04_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+      "kr": "https://www.lego.com/ko-kr/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+      "cn": null
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": null
+    },
+    "source": "https://www.lego.com/en-us/product/disney-tim-burtons-the-nightmare-before-christmas-21351",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71872",
+    "zh": "终极战斗神龙",
+    "ko": "울트라 드래곤 배틀",
+    "en": "Ultra Dragon Battle",
+    "series": "NINJAGO",
+    "seriesZh": "幻影忍者",
+    "seriesKo": "닌자고",
+    "pieces": 2178,
+    "age": "12+",
+    "cny": 1080,
+    "krw": 224925,
+    "china": 1800,
+    "korea": 299900,
+    "global": 199.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd0b8f11b6dcf1c58/blt6c6d8825f3ae31df-71872_Prod_en-us.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt054da51f60bd0eec/blt6c6d8825f3ae31df-71872_WEB_SEC01_NOBG_en-us.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltfb737767f202b409/blt6c6d8825f3ae31df-71872_WEB_SEC02_NOBG_en-us.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
+      "kr": "https://www.lego.com/ko-kr/product/ultra-dragon-battle-71872",
+      "cn": "https://www.lego.com/zh-cn/product/ultra-dragon-battle-71872"
+    },
+    "availability": {
+      "us": "H_OUT_OF_STOCK",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/ultra-dragon-battle-71872",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "76473",
     "zh": "霍格沃茨城堡：东翼",
     "ko": "호그와트™ 성: 동관",
@@ -17,6 +99,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta636c90cedae1099/blt71e715dde083de25-76473_Prod.png",
     "images": [
@@ -57,6 +140,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt69cd6053c5e32973/76454_Prod_en-gb.png",
     "images": [
@@ -97,6 +181,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6475bda6cee08acd/21060.png",
     "images": [
@@ -137,6 +222,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc6a68358c38c3bf9/blt00e69bfd89abdb56-11384_Prod.png",
     "images": [
@@ -177,6 +263,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt2d912a19de34c204/72152_Prod.png",
     "images": [
@@ -217,6 +304,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt4a296fcbadbe75bd/21360_Prod_en-gb.png",
     "images": [
@@ -257,6 +345,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltd183027c82558d22/10354_Prod.png",
     "images": [
@@ -297,6 +386,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt522a237dbe671a5f/21354_Prod.png",
     "images": [
@@ -337,6 +427,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt9b9bd9113f7f11d9/72037_Prod_en-gb.png",
     "images": [
@@ -377,6 +468,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt18bbbe3e90f3bc68/bltf4f2b1ee3281fb61-77082_Prod.png",
     "images": [
@@ -417,6 +509,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt42c7adf188ed2eb8/75382.png",
     "images": [
@@ -457,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6c83947a98df539a/blta3f06da64c7b7d72-77984_Prod.png",
     "images": [
@@ -497,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt027dd971da05e450/blt5831cca8505c1f87-72306_Prod.png",
     "images": [
@@ -537,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte05992a0396ece3c/blt0d84185b8daf3fa6-11378_Prod.png",
     "images": [
@@ -577,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3f6cace2ff7687c6/31218_Prod_en-gb.png",
     "images": [
@@ -617,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltda5fbafc5a35fa4c/21062_Prod.png",
     "images": [
@@ -657,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt55fbccadb7d66885/10300.png",
     "images": [
@@ -697,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blte73f34a420842bb4/67012_Prod.png",
     "images": [
@@ -737,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltac214edb04c74236/blt2f8fb720e38f6e09-75442_Prod.png",
     "images": [
@@ -777,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt7a65be3e885d0dee/blt5a0bc0d19682a2a8-11386_Prod.png",
     "images": [
@@ -817,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt709d460037ccde76/31216_Prod_en-gb.png",
     "images": [
@@ -857,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": true,
+    "availableToBuy": true,
     "tag": "官网在售",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt3f94791a689b7ac6/blted58edc393988117-21376_Prod.png",
     "images": [
@@ -876,86 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/en-us/product/orange-cat-21376",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43269",
-    "zh": "101忠狗",
-    "ko": "101 달마시안 강아지",
-    "en": "101 Dalmatians Puppy",
-    "series": "DISNEY",
-    "seriesZh": "迪士尼",
-    "seriesKo": "디즈니",
-    "pieces": 1722,
-    "age": "18+",
-    "cny": 810,
-    "krw": 149925,
-    "china": 1350,
-    "korea": 199900,
-    "global": 149.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt27cea75527c828ee/43269_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt27cea75527c828ee/43269_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltd2720a02d2c4ee45/43269_WEB_SEC01_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltf16bc03f19f384ee/43269_WEB_SEC02_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/101-dalmatians-puppy-43269",
-      "kr": "https://www.lego.com/ko-kr/product/101-dalmatians-puppy-43269",
-      "cn": "https://www.lego.com/zh-cn/product/101-dalmatians-puppy-43269"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/101-dalmatians-puppy-43269",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "21349",
-    "zh": "燕尾服猫",
-    "ko": "턱시도 고양이",
-    "en": "Tuxedo Cat",
-    "series": "IDEAS",
-    "seriesZh": "IDEAS 创意系列",
-    "seriesKo": "아이디어",
-    "pieces": 1710,
-    "age": "18+",
-    "cny": 540,
-    "krw": 112425,
-    "china": 900,
-    "korea": 149900,
-    "global": 99.99,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": true,
-    "tag": "官网在售",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blte25a9ccc4d363ee2/21349.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blte25a9ccc4d363ee2/21349.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt4f1886ea7d855d71/21349_WEB_SEC01.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltea962d2750698a8c/21349_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": "https://www.lego.com/en-us/product/tuxedo-cat-21349",
-      "kr": "https://www.lego.com/ko-kr/product/tuxedo-cat-21349",
-      "cn": "https://www.lego.com/zh-cn/product/tuxedo-cat-21349"
-    },
-    "availability": {
-      "us": "E_AVAILABLE",
-      "kr": "E_AVAILABLE",
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/en-us/product/tuxedo-cat-21349",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

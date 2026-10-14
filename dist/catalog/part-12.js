@@ -1,5 +1,538 @@
 export default [
   {
+    "id": "76346",
+    "zh": "蜘蛛侠英雄人偶",
+    "ko": "스파이더맨 피겨",
+    "en": "Spider-Man Hero Figure",
+    "series": "MARVEL",
+    "seriesZh": "漫威",
+    "seriesKo": "마블",
+    "pieces": 813,
+    "age": "12+",
+    "cny": 540,
+    "krw": 119925,
+    "china": 900,
+    "korea": 159900,
+    "global": 99.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt585a9a54e5181812/76346_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt585a9a54e5181812/76346_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt033142006657a252/76346_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcbb9cd80476e9464/76346_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/spider-man-hero-figure-76346",
+      "kr": "https://www.lego.com/ko-kr/product/spider-man-hero-figure-76346",
+      "cn": "https://www.lego.com/zh-cn/product/spider-man-hero-figure-76346"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "G_BACKORDER",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/spider-man-hero-figure-76346",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43279",
+    "zh": "瓦力与伊娃",
+    "ko": "월-E와 이브",
+    "en": "WALL-E and EVE",
+    "series": "DISNEY",
+    "seriesZh": "迪士尼",
+    "seriesKo": "디즈니",
+    "pieces": 811,
+    "age": "18+",
+    "cny": 378,
+    "krw": 74925,
+    "china": 630,
+    "korea": 99900,
+    "global": 69.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb61df5c6a83a2624/43279_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb61df5c6a83a2624/43279_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd51d32aeb908a40a/43279_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt322bcbf755ea4781/43279_WEB_SEC01_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/wall-e-and-eve-43279",
+      "kr": "https://www.lego.com/ko-kr/product/wall-e-and-eve-43279",
+      "cn": "https://www.lego.com/zh-cn/product/wall-e-and-eve-43279"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/wall-e-and-eve-43279",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60423",
+    "zh": "都市有轨电车",
+    "ko": "도시의 전차와 정거장",
+    "en": "Downtown Streetcar and Station",
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 811,
+    "age": "7+",
+    "cny": 486,
+    "krw": 97425,
+    "china": 810,
+    "korea": 129900,
+    "global": 89.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta3c2f35e46ae78e2/60423.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta3c2f35e46ae78e2/60423.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt96ff4d6d75589ac4/60423_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8012862628628ef4/60423_WEB_SEC03_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/downtown-streetcar-and-station-60423",
+      "kr": "https://www.lego.com/ko-kr/product/downtown-streetcar-and-station-60423",
+      "cn": "https://www.lego.com/zh-cn/product/downtown-streetcar-and-station-60423"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/downtown-streetcar-and-station-60423",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42204",
+    "zh": "丰田 Supra MK4（《速度与激情》同款）",
+    "ko": "Fast and Furious Toyota Supra MK4",
+    "en": "Fast and Furious Toyota Supra MK4",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 810,
+    "age": "9+",
+    "cny": 324,
+    "krw": 67425,
+    "china": 540,
+    "korea": 89900,
+    "global": 59.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt11a8473b3fce79f9/42204_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt11a8473b3fce79f9/42204_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8e76ded9142b66dc/42204_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf02441933124e07f/42204_WEB_SEC02_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/fast-and-furious-toyota-supra-mk4-42204",
+      "kr": "https://www.lego.com/ko-kr/product/fast-and-furious-toyota-supra-mk4-42204",
+      "cn": "https://www.lego.com/zh-cn/product/fast-and-furious-toyota-supra-mk4-42204"
+    },
+    "availability": {
+      "us": "F_BACKORDER_FOR_DATE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/fast-and-furious-toyota-supra-mk4-42204",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43010",
+    "zh": "Nike 灌篮运动员",
+    "ko": "Nike Slam Dunk",
+    "en": "Nike Slam Dunk",
+    "series": "NIKE",
+    "seriesZh": "Nike",
+    "seriesKo": "레고® 에디션",
+    "pieces": 809,
+    "age": "10+",
+    "cny": 378,
+    "krw": 74925,
+    "china": 630,
+    "korea": 99900,
+    "global": 69.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltf90fa1699f3d1227/43010_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltf90fa1699f3d1227/43010_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3fa51ff47cb982ba/43010_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltdca476d3ae77d837/43010_WEB_SEC03_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/nike-slam-dunk-43010",
+      "kr": "https://www.lego.com/ko-kr/product/nike-slam-dunk-43010",
+      "cn": "https://www.lego.com/zh-cn/product/nike-slam-dunk-43010"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/nike-slam-dunk-43010",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76324",
+    "zh": "蜘蛛侠大战 Oscorp",
+    "ko": "스파이더맨 대 오스코프",
+    "en": "Spider-Man vs. Oscorp",
+    "series": "MARVEL",
+    "seriesZh": "漫威",
+    "seriesKo": "마블",
+    "pieces": 808,
+    "age": "10+",
+    "cny": 756,
+    "krw": 142425,
+    "china": 1260,
+    "korea": 189900,
+    "global": 139.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blta8cd7d7440326251/76324_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta8cd7d7440326251/76324_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta55a8ccda7ecdaa1/76324_WEB_SEC01_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8a8aa985efa9acda/76324_WEB_SEC02_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/spider-man-vs-oscorp-76324",
+      "kr": "https://www.lego.com/ko-kr/product/spider-man-vs-oscorp-76324",
+      "cn": "https://www.lego.com/zh-cn/product/spider-man-vs-oscorp-76324"
+    },
+    "availability": {
+      "us": "OUT_OF_STOCK",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/ko-kr/product/spider-man-vs-oscorp-76324",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76924",
+    "zh": "Mercedes-AMG G 63 与 Mercedes-AMG SL 63",
+    "ko": "Mercedes-AMG G 63 & Mercedes-AMG SL 63",
+    "en": "Mercedes-AMG G 63 & Mercedes-AMG SL 63",
+    "series": "SPEED CHAMPIONS",
+    "seriesZh": "超级赛车",
+    "seriesKo": "스피드 챔피언",
+    "pieces": 808,
+    "age": "10+",
+    "cny": 243,
+    "krw": 52425,
+    "china": 405,
+    "korea": 69900,
+    "global": 44.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": false,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltbc71c879c160329c/76924.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltbc71c879c160329c/76924.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4947e61a1cd69ce5/76924_Lifestyle_cons.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltd4bdb33cd0bb1353/76924_Lifestyle_build.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924",
+      "kr": "https://www.lego.com/ko-kr/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924",
+      "cn": "https://www.lego.com/zh-cn/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924"
+    },
+    "availability": {
+      "us": "K_SOLD_OUT",
+      "kr": "H_OUT_OF_STOCK",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/mercedes-amg-g-63-mercedes-amg-sl-63-76924",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11505",
+    "zh": "林间蘑菇",
+    "ko": "숲속 버섯 정원",
+    "en": "Woodland Mushrooms",
+    "series": "BOTANICALS",
+    "seriesZh": "花植系列",
+    "seriesKo": "보태니컬",
+    "pieces": 806,
+    "age": "18+",
+    "cny": 432,
+    "krw": 93675,
+    "china": 720,
+    "korea": 124900,
+    "global": 79.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb82764353d6cd9c2/bltaa6c5faaf18aa138-11505_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb82764353d6cd9c2/bltaa6c5faaf18aa138-11505_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltc8ac1dc91da19867/bltaa6c5faaf18aa138-11505_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4a86ae45fac7a676/bltaa6c5faaf18aa138-11505_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/woodland-mushrooms-11505",
+      "kr": "https://www.lego.com/ko-kr/product/woodland-mushrooms-11505",
+      "cn": "https://www.lego.com/zh-cn/product/woodland-mushrooms-11505"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/woodland-mushrooms-11505",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "80065",
+    "zh": "二郎天神机甲",
+    "ko": "얼랑의 하늘 로봇",
+    "en": "Erlang's Celestial Mech",
+    "series": "MONKIE KID",
+    "seriesZh": "悟空小侠",
+    "seriesKo": "몽키 키드",
+    "pieces": 806,
+    "age": "9+",
+    "cny": 486,
+    "krw": 86175,
+    "china": 810,
+    "korea": 114900,
+    "global": 89.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt2905706b3b3551d3/80065_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2905706b3b3551d3/80065_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt53c9cc1c03585ae1/80065_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8af7d167b247f2f9/80065_Lifestyle_cons.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/erlangs-celestial-mech-80065",
+      "kr": "https://www.lego.com/ko-kr/product/erlangs-celestial-mech-80065",
+      "cn": "https://www.lego.com/zh-cn/product/erlangs-celestial-mech-80065"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/erlangs-celestial-mech-80065",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42234",
+    "zh": "道奇 Viper GTS-R 跑车",
+    "ko": "Dodge Viper GTS-R 스포츠카",
+    "en": "Dodge Viper GTS-R Sports Car",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 805,
+    "age": "10+",
+    "cny": 351,
+    "krw": 74925,
+    "china": 585,
+    "korea": 99900,
+    "global": 64.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt262620946843b8c2/42234_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt262620946843b8c2/42234_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt06473351374e9dae/42234_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta70aaa9599fbaea4/42234_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/dodge-viper-gts-r-sports-car-42234",
+      "kr": "https://www.lego.com/ko-kr/product/dodge-viper-gts-r-sports-car-42234",
+      "cn": "https://www.lego.com/zh-cn/product/dodge-viper-gts-r-sports-car-42234"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/dodge-viper-gts-r-sports-car-42234",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60509",
+    "zh": "港口货运列车",
+    "ko": "크레인과 트럭이 있는 항구의 화물열차",
+    "en": "Harbor Freight Train with Crane & Truck",
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 803,
+    "age": "7+",
+    "cny": 594,
+    "krw": 119925,
+    "china": 990,
+    "korea": 159900,
+    "global": 109.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt6d9f249efc90ea60/bltbd6fb97f16e07c28-60509_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt6d9f249efc90ea60/bltbd6fb97f16e07c28-60509_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltc761586ed9a0df0b/bltbd6fb97f16e07c28-60509_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcaf0779365a5083c/bltbd6fb97f16e07c28-60509_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/harbor-freight-train-with-crane-truck-60509",
+      "kr": "https://www.lego.com/ko-kr/product/harbor-freight-train-with-crane-truck-60509",
+      "cn": "https://www.lego.com/zh-cn/product/harbor-freight-train-with-crane-truck-60509"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/harbor-freight-train-with-crane-truck-60509",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42173",
+    "zh": "Koenigsegg Jesko Absolut 灰色超跑",
+    "ko": "Koenigsegg Jesko Absolut 그레이 하이퍼카",
+    "en": "Koenigsegg Jesko Absolut Grey Hypercar",
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 801,
+    "age": "10+",
+    "cny": 270,
+    "krw": 52425,
+    "china": 450,
+    "korea": 69900,
+    "global": 49.99,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": true,
+    "availableToBuy": true,
+    "tag": "官网在售",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta239e1dfe6b31fcf/42173_WEB_SEC01_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf4da4daf709b5ba8/42173_WEB_SEC02_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
+      "kr": "https://www.lego.com/ko-kr/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
+      "cn": "https://www.lego.com/zh-cn/product/koenigsegg-jesko-absolut-grey-hypercar-42173"
+    },
+    "availability": {
+      "us": "E_AVAILABLE",
+      "kr": "E_AVAILABLE",
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/en-us/product/koenigsegg-jesko-absolut-grey-hypercar-42173",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76271",
+    "zh": "蝙蝠侠：动画版哥谭市",
+    "ko": "蝙蝠侠：动画版哥谭市",
+    "en": null,
+    "series": "BATMAN",
+    "seriesZh": "蝙蝠侠",
+    "seriesKo": "배트맨",
+    "pieces": 4210,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt20906f5291a8be18/76271.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt20906f5291a8be18/76271.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt9855429dd82d411a/76271_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt6d3054c438079fb4/76271_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/batman-the-animated-series-gotham-city-76271"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/batman-the-animated-series-gotham-city-76271",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "10332",
     "zh": "中世纪城市广场",
     "ko": "中世纪城市广场",
@@ -17,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt363dbbfb53d05684/10332.png",
     "images": [
@@ -57,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt4c79e331f0151811/21344.png",
     "images": [
@@ -97,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6a8cb14aa4efef08/77092.png",
     "images": [
@@ -137,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt15246c4306d1f236/76161.jpg",
     "images": [
@@ -177,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt2e01103c8540f375/42639_alt1.png",
     "images": [
@@ -217,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blta9e2bb2199eed6d4/43242.png",
     "images": [
@@ -257,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc490cf3d5c284e1a/21325_alt3.jpg",
     "images": [
@@ -297,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt5f33616d9ed46bb4/76286.png",
     "images": [
@@ -337,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltcdc0714b282484c5/42670_Prod_en-gb.png",
     "images": [
@@ -377,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltdc05072892e9f21c/42182.png",
     "images": [
@@ -417,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png",
     "images": [
@@ -436,526 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/zh-cn/product/family-reunion-celebration-80113",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "41839",
-    "zh": "素雅信息板",
-    "ko": "素雅信息板",
-    "en": null,
-    "series": "OTHER",
-    "seriesZh": "其他系列",
-    "seriesKo": "기타",
-    "pieces": 1743,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltf68d9edca008b22a/41839_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltf68d9edca008b22a/41839_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt096a5ca9f057ab49/41839_WEB_SEC04_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt91079aabd9f98a23/41839_WEB_SEC06_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/message-board-41839"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/message-board-41839",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71486",
-    "zh": "诺克特尼亚城堡",
-    "ko": "诺克特尼亚城堡",
-    "en": null,
-    "series": "DREAMZZZ",
-    "seriesZh": "梦境城猎人",
-    "seriesKo": "드림즈",
-    "pieces": 1742,
-    "age": "10+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltc837b9fe1905c301/71486.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltc837b9fe1905c301/71486.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltb5c501c353ae9b71/71486_WEB_SEC02_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3dc3511537783d21/71486_Lifestyle_Cons_02.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/castle-nocturnia-71486"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/castle-nocturnia-71486",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "76435",
-    "zh": "霍格沃茨™城堡：大礼堂",
-    "ko": "霍格沃茨™城堡：大礼堂",
-    "en": null,
-    "series": "HARRY POTTER",
-    "seriesZh": "哈利·波特",
-    "seriesKo": "해리포터",
-    "pieces": 1732,
-    "age": "10+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt097978e8152fc21e/76435.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt097978e8152fc21e/76435.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt1db5fdde6a88e2ee/76435_Lifestyle1.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltda02cb537162ec2f/76435_Lifestyle2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/hogwarts-castle-the-great-hall-76435"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/hogwarts-castle-the-great-hall-76435",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42180",
-    "zh": "火星载人探测车",
-    "ko": "火星载人探测车",
-    "en": null,
-    "series": "TECHNIC",
-    "seriesZh": "机械组",
-    "seriesKo": "테크닉",
-    "pieces": 1599,
-    "age": "11+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt0a4aa2b54436320e/42180.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt0a4aa2b54436320e/42180.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt67e3e5f53492b42e/42180_Lifestyle_Cons_02_SPACE.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltebc1db06104c0d77/42180_Lifestyle_Envr_01_SPACE.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/mars-crew-exploration-rover-42180"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/mars-crew-exploration-rover-42180",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43245",
-    "zh": "魔法满屋",
-    "ko": "魔法满屋",
-    "en": null,
-    "series": "DISNEY",
-    "seriesZh": "迪士尼",
-    "seriesKo": "디즈니",
-    "pieces": 1560,
-    "age": "7+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltd921951566449e70/43245.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltd921951566449e70/43245.png",
-      "https://www.lego.com/cdn/cs/set/assets/blta6d5ef3df46d7818/43245_Lifestyle1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt17229bd2723b6561/43245_Lifestyle2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/the-magical-madrigal-house-43245"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/the-magical-madrigal-house-43245",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "31213",
-    "zh": "蒙娜丽莎",
-    "ko": "蒙娜丽莎",
-    "en": null,
-    "series": "ART",
-    "seriesZh": "艺术系列",
-    "seriesKo": "아트",
-    "pieces": 1503,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt816b7e3b339c9992/31213.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt816b7e3b339c9992/31213.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt78ef64d40e215165/31213_Lifestyle1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt5db4be137de1446a/31213_Lifestyle2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/mona-lisa-31213"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/mona-lisa-31213",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "21347",
-    "zh": "伦敦红色电话亭",
-    "ko": "伦敦红色电话亭",
-    "en": null,
-    "series": "IDEAS",
-    "seriesZh": "IDEAS 创意系列",
-    "seriesKo": "아이디어",
-    "pieces": 1460,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltf2c1ab43ea784beb/21347.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltf2c1ab43ea784beb/21347.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltd28298f442cdabd3/21347_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt511166c9789f6e23/21347_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/red-london-telephone-box-21347"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/red-london-telephone-box-21347",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "43247",
-    "zh": "狮子王辛巴",
-    "ko": "狮子王辛巴",
-    "en": null,
-    "series": "DISNEY",
-    "seriesZh": "迪士尼",
-    "seriesKo": "디즈니",
-    "pieces": 1445,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt61950435a1a4154c/43247.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt61950435a1a4154c/43247.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt231dc397e9a39fee/43247_Lifestyle1.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/bltb4b7c7d9db1de4b3/43247_Lifestyle2.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/young-simba-the-lion-king-43247"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/young-simba-the-lion-king-43247",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "10339",
-    "zh": "圣诞老人邮政局",
-    "ko": "圣诞老人邮政局",
-    "en": null,
-    "series": "ICONS",
-    "seriesZh": "ICONS 系列",
-    "seriesKo": "아이콘",
-    "pieces": 1440,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt3c4e5efcccc53a93/10339_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt3c4e5efcccc53a93/10339_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt2b5aa05730a70c58/10339_Lifestyle_Cons_03.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/blt30f3dc3d88fb39e9/10339_Lifestyle_Build_03.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/santas-post-office-10339"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/santas-post-office-10339",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60434",
-    "zh": "太空火箭发射站",
-    "ko": "太空火箭发射站",
-    "en": null,
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 1422,
-    "age": "8+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltac2c0de81b451c79/60434_alt1.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltac2c0de81b451c79/60434_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt9396ecbcb33dce11/60434.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltcb89d1853dba5a77/60434_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/space-base-and-rocket-launchpad-60434"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/space-base-and-rocket-launchpad-60434",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "77072",
-    "zh": "骷髅香蕉人",
-    "ko": "骷髅香蕉人",
-    "en": null,
-    "series": "FORTNITE",
-    "seriesZh": "堡垒之夜",
-    "seriesKo": "포트나이트",
-    "pieces": 1414,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt8406bc272ebed41a/77072_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt8406bc272ebed41a/77072_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltb98709e57691500a/77072_Lifestyle_Cons_01.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/blta2d74c58aa726fd6/77072_Lifestyle_Build_04.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/peely-bone-77072"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/peely-bone-77072",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71437",
-    "zh": "酷霸特快列车",
-    "ko": "酷霸特快列车",
-    "en": null,
-    "series": "SUPER MARIO",
-    "seriesZh": "超级马力欧",
-    "seriesKo": "슈퍼 마리오",
-    "pieces": 1392,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt80a15760dbc78522/71437.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt80a15760dbc78522/71437.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltf1b3715758f75850/71437_Lifestyle_cons_02.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/bltc2e0f34be8fe1f71/71437_Lifestyle_build.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/the-bowser-express-train-71437"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/the-bowser-express-train-71437",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42181",
-    "zh": "垂直起降式重型货运太空船 LT81",
-    "ko": "垂直起降式重型货运太空船 LT81",
-    "en": null,
-    "series": "TECHNIC",
-    "seriesZh": "机械组",
-    "seriesKo": "테크닉",
-    "pieces": 1365,
-    "age": "10+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt59cb3359d83f7bf2/42181.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt59cb3359d83f7bf2/42181.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltab87fbeb73f8f389/42181_alt6.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt706ee842bce0bab4/42181_alt7.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/vtol-heavy-cargo-spaceship-lt81-42181"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/vtol-heavy-cargo-spaceship-lt81-42181",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

@@ -1,5 +1,538 @@
 export default [
   {
+    "id": "41839",
+    "zh": "素雅信息板",
+    "ko": "素雅信息板",
+    "en": null,
+    "series": "OTHER",
+    "seriesZh": "其他系列",
+    "seriesKo": "기타",
+    "pieces": 1743,
+    "age": "9+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltf68d9edca008b22a/41839_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltf68d9edca008b22a/41839_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt096a5ca9f057ab49/41839_WEB_SEC04_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt91079aabd9f98a23/41839_WEB_SEC06_NOBG.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/message-board-41839"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/message-board-41839",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71486",
+    "zh": "诺克特尼亚城堡",
+    "ko": "诺克特尼亚城堡",
+    "en": null,
+    "series": "DREAMZZZ",
+    "seriesZh": "梦境城猎人",
+    "seriesKo": "드림즈",
+    "pieces": 1742,
+    "age": "10+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltc837b9fe1905c301/71486.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc837b9fe1905c301/71486.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltb5c501c353ae9b71/71486_WEB_SEC02_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3dc3511537783d21/71486_Lifestyle_Cons_02.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/castle-nocturnia-71486"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/castle-nocturnia-71486",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76435",
+    "zh": "霍格沃茨™城堡：大礼堂",
+    "ko": "霍格沃茨™城堡：大礼堂",
+    "en": null,
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 1732,
+    "age": "10+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt097978e8152fc21e/76435.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt097978e8152fc21e/76435.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt1db5fdde6a88e2ee/76435_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltda02cb537162ec2f/76435_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/hogwarts-castle-the-great-hall-76435"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/hogwarts-castle-the-great-hall-76435",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42180",
+    "zh": "火星载人探测车",
+    "ko": "火星载人探测车",
+    "en": null,
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 1599,
+    "age": "11+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt0a4aa2b54436320e/42180.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt0a4aa2b54436320e/42180.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt67e3e5f53492b42e/42180_Lifestyle_Cons_02_SPACE.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltebc1db06104c0d77/42180_Lifestyle_Envr_01_SPACE.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/mars-crew-exploration-rover-42180"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/mars-crew-exploration-rover-42180",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43245",
+    "zh": "魔法满屋",
+    "ko": "魔法满屋",
+    "en": null,
+    "series": "DISNEY",
+    "seriesZh": "迪士尼",
+    "seriesKo": "디즈니",
+    "pieces": 1560,
+    "age": "7+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltd921951566449e70/43245.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd921951566449e70/43245.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta6d5ef3df46d7818/43245_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt17229bd2723b6561/43245_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/the-magical-madrigal-house-43245"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/the-magical-madrigal-house-43245",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "31213",
+    "zh": "蒙娜丽莎",
+    "ko": "蒙娜丽莎",
+    "en": null,
+    "series": "ART",
+    "seriesZh": "艺术系列",
+    "seriesKo": "아트",
+    "pieces": 1503,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt816b7e3b339c9992/31213.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt816b7e3b339c9992/31213.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt78ef64d40e215165/31213_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt5db4be137de1446a/31213_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/mona-lisa-31213"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/mona-lisa-31213",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "21347",
+    "zh": "伦敦红色电话亭",
+    "ko": "伦敦红色电话亭",
+    "en": null,
+    "series": "IDEAS",
+    "seriesZh": "IDEAS 创意系列",
+    "seriesKo": "아이디어",
+    "pieces": 1460,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltf2c1ab43ea784beb/21347.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltf2c1ab43ea784beb/21347.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd28298f442cdabd3/21347_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt511166c9789f6e23/21347_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/red-london-telephone-box-21347"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/red-london-telephone-box-21347",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "43247",
+    "zh": "狮子王辛巴",
+    "ko": "狮子王辛巴",
+    "en": null,
+    "series": "DISNEY",
+    "seriesZh": "迪士尼",
+    "seriesKo": "디즈니",
+    "pieces": 1445,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt61950435a1a4154c/43247.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt61950435a1a4154c/43247.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt231dc397e9a39fee/43247_Lifestyle1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltb4b7c7d9db1de4b3/43247_Lifestyle2.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/young-simba-the-lion-king-43247"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/young-simba-the-lion-king-43247",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10339",
+    "zh": "圣诞老人邮政局",
+    "ko": "圣诞老人邮政局",
+    "en": null,
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 1440,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt3c4e5efcccc53a93/10339_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3c4e5efcccc53a93/10339_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt2b5aa05730a70c58/10339_Lifestyle_Cons_03.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blt30f3dc3d88fb39e9/10339_Lifestyle_Build_03.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/santas-post-office-10339"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/santas-post-office-10339",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60434",
+    "zh": "太空火箭发射站",
+    "ko": "太空火箭发射站",
+    "en": null,
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 1422,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltac2c0de81b451c79/60434_alt1.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltac2c0de81b451c79/60434_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt9396ecbcb33dce11/60434.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcb89d1853dba5a77/60434_alt2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/space-base-and-rocket-launchpad-60434"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/space-base-and-rocket-launchpad-60434",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "77072",
+    "zh": "骷髅香蕉人",
+    "ko": "骷髅香蕉人",
+    "en": null,
+    "series": "FORTNITE",
+    "seriesZh": "堡垒之夜",
+    "seriesKo": "포트나이트",
+    "pieces": 1414,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt8406bc272ebed41a/77072_Prod.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8406bc272ebed41a/77072_Prod.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltb98709e57691500a/77072_Lifestyle_Cons_01.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/blta2d74c58aa726fd6/77072_Lifestyle_Build_04.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/peely-bone-77072"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/peely-bone-77072",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71437",
+    "zh": "酷霸特快列车",
+    "ko": "酷霸特快列车",
+    "en": null,
+    "series": "SUPER MARIO",
+    "seriesZh": "超级马力欧",
+    "seriesKo": "슈퍼 마리오",
+    "pieces": 1392,
+    "age": "9+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt80a15760dbc78522/71437.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt80a15760dbc78522/71437.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf1b3715758f75850/71437_Lifestyle_cons_02.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltc2e0f34be8fe1f71/71437_Lifestyle_build.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/the-bowser-express-train-71437"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/the-bowser-express-train-71437",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42181",
+    "zh": "垂直起降式重型货运太空船 LT81",
+    "ko": "垂直起降式重型货运太空船 LT81",
+    "en": null,
+    "series": "TECHNIC",
+    "seriesZh": "机械组",
+    "seriesKo": "테크닉",
+    "pieces": 1365,
+    "age": "10+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt59cb3359d83f7bf2/42181.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt59cb3359d83f7bf2/42181.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltab87fbeb73f8f389/42181_alt6.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt706ee842bce0bab4/42181_alt7.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/vtol-heavy-cargo-spaceship-lt81-42181"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/vtol-heavy-cargo-spaceship-lt81-42181",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "71485",
     "zh": "马泰奥与机甲变身小博",
     "ko": "马泰奥与机甲变身小博",
@@ -17,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt1d03df2953eed9b2/71485.png",
     "images": [
@@ -57,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt23c539c32bf51a90/75374_Prod.png",
     "images": [
@@ -97,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt70f98a03925580b0/42638.png",
     "images": [
@@ -137,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt66e509f43b9ce67b/80116_Prod_en-gb.png",
     "images": [
@@ -177,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt5a20b5c9062ab7fd/72042_Prod.png",
     "images": [
@@ -217,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt80d773e320b1b6ce/42604.png",
     "images": [
@@ -257,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt5230f789eec0bf3a/41838_Prod.png",
     "images": [
@@ -297,6 +837,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltbb12f0c75a5b6e83/76440.png",
     "images": [
@@ -337,6 +878,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt8f50fc90a0fee8f0/60422.png",
     "images": [
@@ -377,6 +919,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6859eb9c97a070a7/71819.png",
     "images": [
@@ -417,6 +960,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt62af03d9b152e740/71478.png",
     "images": [
@@ -436,526 +980,6 @@ export default [
       "cn": "UNVERIFIED"
     },
     "source": "https://www.lego.com/zh-cn/product/the-never-witchs-midnight-raven-71478",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "71813",
-    "zh": "恶狼面具暗影道场",
-    "ko": "恶狼面具暗影道场",
-    "en": null,
-    "series": "NINJAGO",
-    "seriesZh": "幻影忍者",
-    "seriesKo": "닌자고",
-    "pieces": 1190,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt777b938047176b89/71813.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt777b938047176b89/71813.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3930358f3d416c59/71813_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltc02260c81cf02e44/71813_alt3.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/wolf-mask-shadow-dojo-71813"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/wolf-mask-shadow-dojo-71813",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75392",
-    "zh": "百变创意机器人",
-    "ko": "百变创意机器人",
-    "en": null,
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 1186,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt963c9bd812407d14/75392_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt963c9bd812407d14/75392_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltb1e01197498910b9/75392_WEB_SEC03_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt2b32d1bcb35c1cfe/75392_WEB_SEC01_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/creative-play-droid-builder-75392"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/creative-play-droid-builder-75392",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "80112",
-    "zh": "祥龙纳福",
-    "ko": "祥龙纳福",
-    "en": null,
-    "series": "OTHER",
-    "seriesZh": "其他系列",
-    "seriesKo": "기타",
-    "pieces": 1171,
-    "age": "10+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3bdd33f0621997c3/80112_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blte8df1cfe1aae041c/80112_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/auspicious-dragon-80112"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/auspicious-dragon-80112",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42669",
-    "zh": "蜜蜂花园洋房",
-    "ko": "蜜蜂花园洋房",
-    "en": null,
-    "series": "FRIENDS",
-    "seriesZh": "好朋友",
-    "seriesKo": "프렌즈",
-    "pieces": 1161,
-    "age": "12+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blte7c6a6af05a3d967/42669_Prod_en-gb.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blte7c6a6af05a3d967/42669_Prod_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt803ffed6fe073459/42669_WEB_SEC05_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3f45bc79c7b65478/42669_WEB_SEC06_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/beekeepers-house-and-flower-garden-42669"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/beekeepers-house-and-flower-garden-42669",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "10355",
-    "zh": "叛逆者号",
-    "ko": "叛逆者号",
-    "en": null,
-    "series": "ICONS",
-    "seriesZh": "ICONS 系列",
-    "seriesKo": "아이콘",
-    "pieces": 1151,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt58105ade6acc7f1a/10355_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt58105ade6acc7f1a/10355_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt8a6cb8c68138b555/10355_WEB_SEC02_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt4634d81af059da4f/10355_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/blacktron-renegade-10355"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/blacktron-renegade-10355",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42631",
-    "zh": "探险树屋",
-    "ko": "探险树屋",
-    "en": null,
-    "series": "FRIENDS",
-    "seriesZh": "好朋友",
-    "seriesKo": "프렌즈",
-    "pieces": 1128,
-    "age": "8+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt728725463969a51f/42631.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt728725463969a51f/42631.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt3c431fd8cda06ceb/42631_Lifestyle_cons.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltca6b4bfea673e0a8/42631_Lifestyle_cons_2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/adventure-camp-tree-house-42631"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/adventure-camp-tree-house-42631",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "42620",
-    "zh": "斜顶树屋",
-    "ko": "斜顶树屋",
-    "en": null,
-    "series": "FRIENDS",
-    "seriesZh": "好朋友",
-    "seriesKo": "프렌즈",
-    "pieces": 1126,
-    "age": "7+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt7a7c7638674d9354/42620_alt1.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt7a7c7638674d9354/42620_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt6f43c5085b59672e/42620.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt272ca0eeb756d4b2/42620_alt6.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/olly-and-paisleys-family-houses-42620"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/olly-and-paisleys-family-houses-42620",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60409",
-    "zh": "黄色移动式工程起重机",
-    "ko": "黄色移动式工程起重机",
-    "en": null,
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 1116,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt23fe5c45aeb9c8f4/60409.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt23fe5c45aeb9c8f4/60409.png",
-      "https://www.lego.com/cdn/cs/set/assets/blta0d08c8df2c1a5f4/60409_Lifestyle_cons.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltb9470fc18a4f4049/60409_Lifestyle_cons_2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/yellow-mobile-construction-crane-60409"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/yellow-mobile-construction-crane-60409",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "21352",
-    "zh": "迪士尼魔法世界",
-    "ko": "迪士尼魔法世界",
-    "en": null,
-    "series": "IDEAS",
-    "seriesZh": "IDEAS 创意系列",
-    "seriesKo": "아이디어",
-    "pieces": 1103,
-    "age": "18+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt321f3f95dba04553/21352_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt321f3f95dba04553/21352_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt57db9a94810a2db9/21352_WEB_SEC02_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt5d3c7f809f738b01/21352_WEB_SEC03_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/magic-of-disney-21352"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/magic-of-disney-21352",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "60433",
-    "zh": "空间站",
-    "ko": "空间站",
-    "en": null,
-    "series": "CITY",
-    "seriesZh": "城市",
-    "seriesKo": "시티",
-    "pieces": 1097,
-    "age": "7+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt09f47d01d7fc3a4d/60433_alt1.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt09f47d01d7fc3a4d/60433_alt1.png",
-      "https://www.lego.com/cdn/cs/set/assets/bltfe8f092f43abf234/60433.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt0b2622f307bf6100/60433_alt2.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/modular-space-station-60433"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/modular-space-station-60433",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75318",
-    "zh": "尤达宝宝 (The Child)",
-    "ko": "尤达宝宝 (The Child)",
-    "en": null,
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 1075,
-    "age": "10+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt4077c030eb5d127d/75318.jpg",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt4077c030eb5d127d/75318.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/bltfbb3e2b3515884e0/75318_alt1.jpg",
-      "https://www.lego.com/cdn/cs/set/assets/blt1f3335929d11018e/75318_alt2.jpg"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/the-child-75318"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/the-child-75318",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "72039",
-    "zh": "马力欧卡丁车™ - 酷霸城堡",
-    "ko": "马力欧卡丁车™ - 酷霸城堡",
-    "en": null,
-    "series": "SUPER MARIO",
-    "seriesZh": "超级马力欧",
-    "seriesKo": "슈퍼 마리오",
-    "pieces": 1068,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/blt82b4b542bb91ee84/72039_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/blt82b4b542bb91ee84/72039_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt869d717db42e06d6/72039_WEB_SEC03_NOBG_en-gb.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt573fa8fb9add0432/72039_WEB_SEC01_NOBG_en-gb.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/mario-kart-bowsers-castle-72039"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/mario-kart-bowsers-castle-72039",
-    "updated": "2026-10-14",
-    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
-  },
-  {
-    "id": "75393",
-    "zh": "TIE 战机与 X-翼战机创意组合",
-    "ko": "TIE 战机与 X-翼战机创意组合",
-    "en": null,
-    "series": "STAR WARS",
-    "seriesZh": "星球大战",
-    "seriesKo": "스타워즈",
-    "pieces": 1063,
-    "age": "9+",
-    "cny": null,
-    "krw": null,
-    "china": null,
-    "korea": null,
-    "global": null,
-    "stock": null,
-    "requestLimit": 10,
-    "confirmed": false,
-    "tag": "目录待核实",
-    "image": "https://www.lego.com/cdn/cs/set/assets/bltd78a9faad57e08cc/75393_Prod.png",
-    "images": [
-      "https://www.lego.com/cdn/cs/set/assets/bltd78a9faad57e08cc/75393_Prod.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt929e82d43ce83658/75393_WEB_SEC01_NOBG.png",
-      "https://www.lego.com/cdn/cs/set/assets/blt90a8b6528d28e6b8/75393_WEB_SEC02_NOBG.png"
-    ],
-    "detailSource": "OFFICIAL_GALLERY",
-    "sources": {
-      "us": null,
-      "kr": null,
-      "cn": "https://www.lego.com/zh-cn/product/tie-fighter-x-wing-mash-up-75393"
-    },
-    "availability": {
-      "us": null,
-      "kr": null,
-      "cn": "UNVERIFIED"
-    },
-    "source": "https://www.lego.com/zh-cn/product/tie-fighter-x-wing-mash-up-75393",
     "updated": "2026-10-14",
     "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
   }

@@ -1,7 +1,9 @@
 {
   "updated": "2026-10-14",
-  "total": 367,
-  "confirmed": 287,
+  "total": 380,
+  "confirmed": 300,
+  "availableToBuy": 287,
+  "temporarilyOutOfStock": 13,
   "pending": 80,
   "rules": {
     "CNY": "round(US official list price × 9 × 0.6)",
@@ -135,8 +137,8 @@
     },
     {
       "series": "ICONS",
-      "total": 39,
-      "confirmed": 33
+      "total": 43,
+      "confirmed": 37
     },
     {
       "series": "IDEAS",
@@ -170,13 +172,13 @@
     },
     {
       "series": "HARRY POTTER",
-      "total": 16,
-      "confirmed": 13
+      "total": 17,
+      "confirmed": 14
     },
     {
       "series": "MARVEL",
-      "total": 8,
-      "confirmed": 7
+      "total": 12,
+      "confirmed": 11
     },
     {
       "series": "SERIOUS PLAY",
@@ -215,8 +217,8 @@
     },
     {
       "series": "BATMAN",
-      "total": 2,
-      "confirmed": 1
+      "total": 3,
+      "confirmed": 2
     },
     {
       "series": "EDITIONS",
@@ -250,8 +252,8 @@
     },
     {
       "series": "DREAMZZZ",
-      "total": 9,
-      "confirmed": 4
+      "total": 10,
+      "confirmed": 5
     },
     {
       "series": "CREATOR 3-IN-1",
@@ -294,6 +296,11 @@
       "confirmed": 1
     },
     {
+      "series": "WEDNESDAY",
+      "total": 2,
+      "confirmed": 2
+    },
+    {
       "series": "MINIFIGURES",
       "total": 1,
       "confirmed": 1
@@ -302,11 +309,6 @@
       "series": "CLASSIC",
       "total": 4,
       "confirmed": 2
-    },
-    {
-      "series": "WEDNESDAY",
-      "total": 1,
-      "confirmed": 1
     },
     {
       "series": "MINECRAFT",
@@ -320,6 +322,11 @@
     },
     {
       "series": "KPOP DEMON HUNTERS",
+      "total": 1,
+      "confirmed": 1
+    },
+    {
+      "series": "SPEED CHAMPIONS",
       "total": 1,
       "confirmed": 1
     },

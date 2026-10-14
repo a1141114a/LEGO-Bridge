@@ -1,5 +1,538 @@
 export default [
   {
+    "id": "31153",
+    "zh": "摩登豪宅",
+    "ko": "摩登豪宅",
+    "en": null,
+    "series": "CREATOR 3-IN-1",
+    "seriesZh": "创意百变三合一",
+    "seriesKo": "크리에이터 3-in-1",
+    "pieces": 939,
+    "age": "9+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltbabf75a734d0788d/31153.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltbabf75a734d0788d/31153.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt4e5d3e10413f5289/31153_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt573de155426262c2/31153_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/modern-house-31153"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/modern-house-31153",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71436",
+    "zh": "害羞幽灵王的鬼屋",
+    "ko": "害羞幽灵王的鬼屋",
+    "en": null,
+    "series": "SUPER MARIO",
+    "seriesZh": "超级马力欧",
+    "seriesKo": "슈퍼 마리오",
+    "pieces": 932,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt6a01d9f7ba2d3390/71436.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt6a01d9f7ba2d3390/71436.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt1f1f1df10ea00a9a/71436_Lifestyle_cons_02.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltc6e8a4b8ebed99ed/71436_Lifestyle_build.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/king-boos-haunted-mansion-71436"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/king-boos-haunted-mansion-71436",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75638",
+    "zh": "恶龙乐园之战",
+    "ko": "恶龙乐园之战",
+    "en": null,
+    "series": "OTHER",
+    "seriesZh": "其他系列",
+    "seriesKo": "기타",
+    "pieces": 926,
+    "age": "9+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt5b3417d6328c771d/75638_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5b3417d6328c771d/75638_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt6f76ba45d8db0587/75638_WEB_SEC03_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blta774aa2b951d30b4/75638_WEB_SEC01_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/battle-at-arlong-park-75638"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/battle-at-arlong-park-75638",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "71484",
+    "zh": "库珀的霸王龙变身机甲",
+    "ko": "库珀的霸王龙变身机甲",
+    "en": null,
+    "series": "DREAMZZZ",
+    "seriesZh": "梦境城猎人",
+    "seriesKo": "드림즈",
+    "pieces": 917,
+    "age": "9+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt27b357d47e7b13c0/71484.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt27b357d47e7b13c0/71484.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt36a5db3655e53d9b/71484_WEB_SEC03_NOBG.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd39f05e5bf1ef48f/71484_Lifestyle_Cons_02.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/coopers-robot-dinosaur-c-rex-71484"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/coopers-robot-dinosaur-c-rex-71484",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "10334",
+    "zh": "复古收音机",
+    "ko": "复古收音机",
+    "en": null,
+    "series": "ICONS",
+    "seriesZh": "ICONS 系列",
+    "seriesKo": "아이콘",
+    "pieces": 906,
+    "age": "18+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt429843c3c3c643b5/10334.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt429843c3c3c643b5/10334.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt56f2f3681136a798/10334_Lifestyle1.jpg",
+      "https://www.lego.com/cdn/cs/set/assets/bltbfd6b9be264932ef/10334_Lifestyle2.jpg"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/retro-radio-10334"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/retro-radio-10334",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42655",
+    "zh": "餐厅与烹饪学院",
+    "ko": "餐厅与烹饪学院",
+    "en": null,
+    "series": "FRIENDS",
+    "seriesZh": "好朋友",
+    "seriesKo": "프렌즈",
+    "pieces": 896,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt7c10777d90e94c2e/42655_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7c10777d90e94c2e/42655_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltd49aef48b4be61fe/42655_WEB_SEC02_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt49e5c8a4c70f3a2f/42655_WEB_SEC08_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/restaurant-and-cooking-school-42655"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/restaurant-and-cooking-school-42655",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "76428",
+    "zh": "探访海格™小屋",
+    "ko": "探访海格™小屋",
+    "en": null,
+    "series": "HARRY POTTER",
+    "seriesZh": "哈利·波特",
+    "seriesKo": "해리포터",
+    "pieces": 896,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt2c21720f08500f45/76428.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2c21720f08500f45/76428.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt22b12298beead430/76428_alt3.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt28d1cfcce0472d92/76428_alt4.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/hagrids-hut-an-unexpected-visit-76428"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/hagrids-hut-an-unexpected-visit-76428",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60437",
+    "zh": "丛林探险家基地直升机",
+    "ko": "丛林探险家基地直升机",
+    "en": null,
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 881,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltfd3f912357e84431/60437.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltfd3f912357e84431/60437.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltcacb8564c7ada097/60437_Lifestyle1.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltdee911cf0d946262/60437_Lifestyle2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/jungle-explorer-helicopter-at-base-camp-60437"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/jungle-explorer-helicopter-at-base-camp-60437",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "60472",
+    "zh": "汽车回收站",
+    "ko": "汽车回收站",
+    "en": null,
+    "series": "CITY",
+    "seriesZh": "城市",
+    "seriesKo": "시티",
+    "pieces": 871,
+    "age": "7+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb368efbbecaeb7f7/60472_Prod_en-gb.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb368efbbecaeb7f7/60472_Prod_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt8a30318ca494284c/60472_WEB_SEC02_NOBG_en-gb.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt48a6d93df0142575/60472_WEB_SEC03_NOBG_en-gb.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/scrapyard-with-cars-60472"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/scrapyard-with-cars-60472",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "75583",
+    "zh": "小黄人和格鲁的豪宅",
+    "ko": "小黄人和格鲁的豪宅",
+    "en": null,
+    "series": "OTHER",
+    "seriesZh": "其他系列",
+    "seriesKo": "기타",
+    "pieces": 868,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltac42b6150a2f5cec/75583.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltac42b6150a2f5cec/75583.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt277ef263f41cc886/75583_Lifestyle_Cons.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3133949fe697d47a/75583_Lifestyle_Cons_2.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/minions-and-grus-family-mansion-75583"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/minions-and-grus-family-mansion-75583",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11035",
+    "zh": "创意房屋",
+    "ko": "创意房屋",
+    "en": null,
+    "series": "CLASSIC",
+    "seriesZh": "经典系列",
+    "seriesKo": "클래식",
+    "pieces": 850,
+    "age": "4+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltaf153bd446b26f4f/11035.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltaf153bd446b26f4f/11035.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt76d1b81c3c2be597/11035_alt6.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltf7e8e37610e55b6a/11035_alt7.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/creative-houses-11035"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/creative-houses-11035",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "11038",
+    "zh": "缤纷创意积木盒",
+    "ko": "缤纷创意积木盒",
+    "en": null,
+    "series": "CLASSIC",
+    "seriesZh": "经典系列",
+    "seriesKo": "클래식",
+    "pieces": 850,
+    "age": "4+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltdec2ef6c0b99515a/11038_Box1_v39.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdec2ef6c0b99515a/11038_Box1_v39.png",
+      "https://www.lego.com/cdn/cs/set/assets/bltaf6561309aa79bc1/11038.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt581f589240793ba7/11038_alt1.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/vibrant-creative-brick-box-11038"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/vibrant-creative-brick-box-11038",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
+    "id": "42619",
+    "zh": "歌星巡演车",
+    "ko": "歌星巡演车",
+    "en": null,
+    "series": "FRIENDS",
+    "seriesZh": "好朋友",
+    "seriesKo": "프렌즈",
+    "pieces": 845,
+    "age": "8+",
+    "cny": null,
+    "krw": null,
+    "china": null,
+    "korea": null,
+    "global": null,
+    "stock": null,
+    "requestLimit": 10,
+    "confirmed": false,
+    "availableToBuy": false,
+    "tag": "目录待核实",
+    "image": "https://www.lego.com/cdn/cs/set/assets/bltb382e43db5490582/42619_alt1.png",
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb382e43db5490582/42619_alt1.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt16062c458f319beb/42619.png",
+      "https://www.lego.com/cdn/cs/set/assets/blt3eb4ef247c9783bf/42619_alt6.png"
+    ],
+    "detailSource": "OFFICIAL_GALLERY",
+    "sources": {
+      "us": null,
+      "kr": null,
+      "cn": "https://www.lego.com/zh-cn/product/pop-star-music-tour-bus-42619"
+    },
+    "availability": {
+      "us": null,
+      "kr": null,
+      "cn": "UNVERIFIED"
+    },
+    "source": "https://www.lego.com/zh-cn/product/pop-star-music-tour-bus-42619",
+    "updated": "2026-10-14",
+    "priceType": "OFFICIAL_WITH_MERCHANT_RULES"
+  },
+  {
     "id": "75582",
     "zh": "格鲁与小黄人",
     "ko": "格鲁与小黄人",
@@ -17,6 +550,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt76d081a225ff642b/75582.png",
     "images": [
@@ -57,6 +591,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt6cf7f51b0edcecfd/10331.png",
     "images": [
@@ -97,6 +632,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt5e74522088185a50/43246_alt1.png",
     "images": [
@@ -137,6 +673,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/blt748ddbf37ffe52df/42630.png",
     "images": [
@@ -177,6 +714,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltc40ea8abb6a02b82/77057_Prod.png",
     "images": [
@@ -217,6 +755,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltbe720686d42f23b5/42196.png",
     "images": [
@@ -257,6 +796,7 @@ export default [
     "stock": null,
     "requestLimit": 10,
     "confirmed": false,
+    "availableToBuy": false,
     "tag": "目录待核实",
     "image": "https://www.lego.com/cdn/cs/set/assets/bltf88c9db27dc89320/42184_Prod.png",
     "images": [
