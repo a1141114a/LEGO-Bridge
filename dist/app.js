@@ -23,7 +23,8 @@ const seriesName=p=>lang==='zh'?(p.seriesZh||p.series):(p.seriesKo||p.series);
 const availabilityLabel=s=>s==='E_AVAILABLE'?tr('可购买','구매 가능'):s?.includes('BACKORDER')?tr('可订购，需等待','백오더'):s?.includes('PRE_ORDER')?tr('预售','예약 판매'):s?.includes('OUT_OF_STOCK')||s?.includes('SOLD_OUT')?tr('缺货','품절'):s?.includes('RETIRED')?tr('已停售','판매 종료'):tr('待核实','확인 예정');
 const canOrder=p=>p.availableToBuy&&Number.isFinite(price(p))&&price(p)>0;
 const tag=p=>p.confirmed?(p.availableToBuy?tr('官网在售','공식 판매 중'):tr('官网暂缺货','공식 일시 품절')):tr('目录待核实','판매 확인 예정');
-const seriesList=()=>[...new Map(products.map(p=>[p.series,p])).values()];
+const seriesPriority=['ICONS','IDEAS','STAR WARS','TECHNIC','BOTANICALS','ARCHITECTURE','HARRY POTTER','MARVEL','CITY','FRIENDS','NINJAGO','LORD OF THE RINGS'];
+const seriesList=()=>[...new Set(products.map(p=>p.series))].map(s=>products.find(p=>p.series===s&&p.availableToBuy)||products.find(p=>p.series===s&&p.confirmed)||products.find(p=>p.series===s)).sort((a,b)=>(seriesPriority.includes(a.series)?seriesPriority.indexOf(a.series):99)-(seriesPriority.includes(b.series)?seriesPriority.indexOf(b.series):99));
 const priceRule=()=>tr('中国售价 = 美国官网原价 × 9 × 60%；韩国售价 = 韩国官网售价 × 75%，四舍五入取整数。美国价格保留美元原价。','중국 가격 = 미국 공식 정가 × 9 × 60%, 한국 가격 = 한국 공식 판매가 × 75% (반올림). 미국 가격은 USD 정가입니다.');
 function imageUrl(url,width=800){return url+'?fit=bounds&format=jpg&quality=85&width='+width+'&height='+width;}
 
