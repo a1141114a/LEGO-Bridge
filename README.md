@@ -49,3 +49,7 @@ LEGO Bridge 为独立创业演示项目，与 LEGO 集团无隶属关系。LEGO�
 - `.data/`：运行时私有申请数据，不提交到公开仓库。
 
 商品编辑暂通过 `dist/products.js` 完成，不含在线支付、会员系统、实时抓取、寄售、社区和价格走势图。
+
+## Manual payment interface
+The checkout dialog displays the merchant-provided WeChat and Alipay QR codes. KakaoPay and bank transfer remain unconfigured. UI copy is Chinese/Korean; QR artwork is displayed with CSS cropping and the original is available via a link. GitHub Pages generates an in-memory order draft only: it does not transmit contact/address data, create a server order, reserve stock, or confirm payment. With the Node order API running, the same dialog follows a successful saved purchase request. Confirm the final amount and shipping with the merchant before transferring funds.
+
