@@ -53,3 +53,7 @@ LEGO Bridge 为独立创业演示项目，与 LEGO 集团无隶属关系。LEGO�
 ## Manual payment interface
 The checkout dialog displays the merchant-provided WeChat and Alipay QR codes. KakaoPay and bank transfer remain unconfigured. UI copy is Chinese/Korean; QR artwork is displayed with CSS cropping and the original is available via a link. GitHub Pages generates an in-memory order draft only: it does not transmit contact/address data, create a server order, reserve stock, or confirm payment. With the Node order API running, the same dialog follows a successful saved purchase request. Confirm the final amount and shipping with the merchant before transferring funds.
 
+
+## Player collection gallery
+The homepage highlights six photographs and links to a bilingual gallery with 34 unique user-provided images, theme filters, and keyboard-accessible enlarged viewing. Screenshot borders are removed by a measured CSS viewing window; the photographic area and existing attribution are retained. JPEG encoding reduces transfer size without changing the photographed scene. One exact duplicate is excluded. Images load lazily.
+
